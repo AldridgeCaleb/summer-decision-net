@@ -1,0 +1,1115 @@
+"","zcta","zipp","City","County","Operational.Costs","Admin.Costs","Food.Costs","SFSP.Kitchens","Meals.Served","Media","Activity","Site.Density","Benefits","Poverty","Grocery","Convenience.Store","Public.Transport","Total.Meals","Total.ADP","Findings","Year.Round"
+"2",75001,75001,"Addison","Dallas","High","High","Med","No","Lunch Plus","Low","High","Low","No","High","Yes","High","No",NA,0,1,1
+"5",75006,75006,"Carrollton","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No","Low",0,NA,2
+"6",75007,75007,"Carrollton","Denton","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,2
+"12",75020,75020,"Denison","Grayson","Med","Med","High","Yes","Lunch Plus","High","High","Low","No","Med","Yes","High","No","High",0,1,1
+"23",75038,75038,"Irving","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,3
+"27",75040,75040,"Garland","Dallas","High","High","Low","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,62.5,9,2
+"30",75041,75041,"Garland","Dallas","Med","Med","Low","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,1
+"31",75042,75042,"Garland","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"33",75043,75043,"Garland","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,2
+"37",75050,75050,"Grand Prairie","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,98.5958974358974,NA,8
+"38",75051,75051,"Grand Prairie","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",66.9136988119732,NA,11
+"40",75052,75052,"Grand Prairie","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",74.8058310319899,11,2
+"44",75057,75057,"Lewisville","Denton","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"47",75060,75060,"Irving","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",30.7777777777778,NA,10
+"49",75061,75061,"Irving","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","No","High","No",NA,23.9324786324786,NA,11
+"50",75062,75062,"Irving","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No","Low",54.4533724340176,NA,10
+"56",75067,75067,"Lewisville","Denton","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,3
+"58",75069,75069,"Mckinney","Collin","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,5
+"61",75074,75074,"Plano","Collin","Med","Med","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No","Low",0,NA,2
+"71",75081,75081,"Richardson","Dallas","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,3
+"78",75090,75090,"Sherman","Grayson","High","Med","Med","No","Lunch Plus","High","None","Low","Yes","Med","Yes","High","No","Low",0,NA,NA
+"79",75092,75092,"Sherman","Grayson","High","Med","Med","No","No Meals","Low","None","None","No","Med","Yes","High","No","Low",0,NA,NA
+"87",75104,75104,"Cedar Hill","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,44.2984848484849,5,3
+"90",75110,75110,"Corsicana","Navarro","Med","Med","Med","Yes","Lunch Plus","High","None","High","No","Med","Yes","High","No",NA,0,NA,1
+"92",75114,75114,"Crandall","Kaufman","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","Low","No","Low",0,NA,NA
+"93",75115,75115,"Desoto","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,26.9929163429163,25,5
+"95",75116,75116,"Duncanville","Dallas","High","High","Med","Yes","Lunch Plus","Low","High","High","No","Med","Yes","High","No",NA,46.2287630402384,1,4
+"96",75117,75117,"Edgewood","Van Zandt","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"98",75119,75119,"Ennis","Ellis","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High",NA,"Low",0,NA,6
+"99",75124,75124,"Eustace","Henderson","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"100",75125,75125,"Ferris","Ellis","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"102",75127,75127,"Fruitvale","Van Zandt","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low",NA,NA,0,NA,NA
+"104",75134,75134,"Lancaster","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","No","High","No","Low",0,NA,6
+"106",75137,75137,"Duncanville","Dallas","High","High","Med","Yes","Lunch Plus","High","High","Low","No","Med","Yes","High","No",NA,50.9180327868852,8,1
+"108",75140,75140,"Grand Saline","Van Zandt","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"110",75142,75142,"Kaufman","Kaufman","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"111",75143,75143,"Kemp","Kaufman","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"112",75144,75144,"Kerens","Navarro","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"Low",0,NA,1
+"113",75146,75146,"Lancaster","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","No","High","No",NA,13.5858764186633,7,1
+"114",75147,75147,"Mabank","Kaufman","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","High","No","Low",0,NA,NA
+"115",75148,75148,"Malakoff","Henderson","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,1
+"118",75149,75149,"Mesquite","Dallas","Med","Med","Low","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,2
+"119",75150,75150,"Mesquite","Dallas","High","High","Med","No","Lunch Plus","Low","Low","High","No","Med","Yes","High","No","Low",0,4,4
+"120",75152,75152,"Palmer","Ellis","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"122",75154,75154,"Red Oak","Ellis","Med","Med","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,18.8888888888889,2,NA
+"123",75155,75155,"Rice","Navarro","Med","Med","Med","No","No Meals","High","None","None","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"124",75156,75156,"Mabank","Henderson","High","High","Med","No","No Meals","Low","None","None","No","Med","Yes","High","No","Low",0,NA,3
+"127",75159,75159,"Seagoville","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,2
+"128",75160,75160,"Terrell","Kaufman","Med","Med","Med","Yes","Lunch Plus","High","None","High","No","Med","Yes","High","No",NA,0,2,NA
+"131",75163,75163,"Trinidad","Henderson","High","High","Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,1
+"134",75165,75165,"Waxahachie","Ellis","Low","Med","Med","No","Lunch Plus","High","None","High","No","Med","Yes","High","No","High",0,1,2
+"135",75166,75166,"Lavon","Collin","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"137",75169,75169,"Wills Point","Van Zandt","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,35.5555555555556,NA,2
+"141",75180,75180,"Mesquite","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Low","No","High","No","Low",0,NA,6
+"142",75181,75181,"Mesquite","Dallas","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"147",75201,75201,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","High","High","No","High","No","High","No","Low",49.655737704918,55,1
+"149",75202,75202,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","Low",NA,NA,"No","Low","No","Low",0,NA,1
+"151",75203,75203,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","No","High","Yes","Low",0,NA,15
+"152",75204,75204,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","High","Yes","High","No","Low",40,NA,12
+"153",75205,75205,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Low","No","Low","No","Low",0,NA,NA
+"156",75206,75206,"Dallas","Dallas","Med","Med","High","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,11
+"174",75208,75208,"Dallas","Dallas",NA,"Med","Low","No","Lunch Plus","Low","High","High","No","Low","No","High","No","High",30.1477777777778,41,12
+"178",75209,75209,"Dallas","Dallas","High","High","Low","No","Lunch Plus","Low","None","Low","No","High","Yes","High","No",NA,0,NA,2
+"179",75210,75210,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","No","High","Yes",NA,38.1818181818182,NA,10
+"180",75211,75211,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,25
+"183",75212,75212,"Dallas","Dallas","Med","High","Low","Yes","Lunch Plus","Low","None","High","No","Low","No","High","No",NA,52.4888888888889,1,17
+"185",75214,75214,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,5
+"186",75215,75215,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","High","High","Yes","High","No","High","Yes",NA,54.9016393442623,16,15
+"190",75216,75216,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","High","High","Yes","Med","Yes","High","Yes",NA,28.8114754098361,19,30
+"191",75217,75217,"Dallas","Dallas","Med","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No",NA,25.6177273364159,14,33
+"193",75218,75218,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,2
+"196",75219,75219,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","High","No","High","No","Low",0,NA,3
+"198",75220,75220,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,17
+"199",75223,75223,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,2
+"200",75224,75224,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,17
+"204",75227,75227,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,22
+"205",75228,75228,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No","Low",0,NA,25
+"207",75229,75229,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,14
+"209",75230,75230,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,5
+"211",75231,75231,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","Yes","Low",0,NA,11
+"213",75232,75232,"Dallas","Dallas","High","High","Med","Yes","Lunch Plus","High","High","High","Yes","Med","Yes","High","No","Low",535.976923076923,NA,16
+"214",75233,75233,"Dallas","Dallas","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Low","Yes","High","No","High",0,NA,9
+"215",75234,75234,"Dallas","Dallas","Med","High","Med","Yes","Lunch Plus","High","Low","High","No","Med","Yes","High","No",NA,47.68,NA,5
+"218",75235,75235,"Dallas","Dallas","High","High","Med","No","Lunch Plus","High","None","High","Yes","High","Yes","High","Yes","Low",0,NA,11
+"219",75236,75236,"Dallas","Dallas","Med","High","Low","Yes","Lunch Plus","Low","High","High","No","Med","No","High","No",NA,0,3,9
+"220",75237,75237,"Dallas","Dallas","High","High","Low","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,59.6153846153846,15,8
+"223",75238,75238,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,6
+"225",75240,75240,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,6
+"226",75241,75241,"Dallas","Dallas","Med","Med","Med","Yes","Lunch Plus","High","High","High","Yes","Med","No","High","No","High",22.9,3,16
+"229",75243,75243,"Dallas","Dallas","Med","Med","High","Yes","Lunch Plus","Low","High","High","No","Med","Yes","High","No",NA,0,15,12
+"231",75244,75244,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","No","Low","No","Low","No","Low",0,NA,3
+"232",75246,75246,"Dallas","Dallas","High","High","Low","No","Lunch Plus","Low","None","High","Yes","Med","Yes","Low","Yes",NA,0,NA,3
+"237",75249,75249,"Dallas","Dallas","High","High","Low","No","Lunch Plus","Low","High","Low","No","Med","No","Low","No",NA,0,9,2
+"240",75253,75253,"Dallas","Dallas","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,5
+"246",75287,75287,"Dallas","Collin","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","High","Yes","High","No","Low",0,NA,2
+"248",75401,75401,"Greenville","Hunt","Low","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High",NA,"High",0,NA,1
+"251",75402,75402,"Greenville","Hunt","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"Low",0,NA,1
+"252",75407,75407,"Princeton","Collin","Low","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","High","No","High",0,NA,NA
+"255",75410,75410,"Alba","Wood","Low",NA,NA,"No","Lunch","Low","None","Low","Yes","High","No","Low","No",NA,0,NA,NA
+"262",75416,75416,"Blossom","Lamar","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"263",75417,75417,"Bogata","Red River","Low","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"264",75418,75418,"Bonham","Fannin","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","Yes","High","No","Low",0,NA,NA
+"267",75422,75422,"Campbell","Hunt","Low","Low","High","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Med",0,NA,NA
+"268",75423,75423,"Celeste","Hunt","Low","Med","Med","No","Lunch Plus","Low","None","Low","Yes","High","No","Low",NA,"Low",0,NA,NA
+"269",75424,75424,"Blue Ridge","Collin","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","Low",NA,"Low",0,NA,NA
+"270",75426,75426,"Clarksville","Red River","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Med",0,1,NA
+"271",75428,75428,"Commerce","Hunt","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,1
+"273",75431,75431,"Como","Hopkins","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"274",75432,75432,"Cooper","Delta","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,NA,0,NA,NA
+"275",75433,75433,"Cumby","Hopkins","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"277",75435,75435,"Deport","Lamar","Low",NA,NA,"No","Lunch","Low","None","Low","Yes","Med","No","Low",NA,NA,0,NA,NA
+"278",75436,75436,"Detroit","Red River","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"281",75439,75439,"Ector","Fannin","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"282",75440,75440,"Emory","Rains","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"284",75442,75442,"Farmersville","Collin","Low","Med","Med","No","Lunch","Low","None","Low","No","Med","Yes","Low",NA,"High",0,NA,NA
+"286",75446,75446,"Honey Grove","Fannin","Med","Med","Med","No","Lunch","High","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"289",75449,75449,"Ladonia","Fannin","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"292",75452,75452,"Leonard","Fannin","Med","Low","Med","Yes","Lunch","Low","None","Low","No","Low","No","Low",NA,"High",0,NA,NA
+"295",75455,75455,"Mount Pleasant","Titus","Med","Med","Med","No","Lunch Plus","High","None","High","No","Med","Yes","High","No","High",0,NA,2
+"297",75457,75457,"Mount Vernon","Franklin","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"299",75460,75460,"Paris","Lamar","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","Yes","High",NA,NA,0,NA,NA
+"302",75468,75468,"Pattonville","Lamar","Low",NA,NA,"No","No Meals","Low","None","None","Yes","High","No","Low",NA,NA,0,NA,NA
+"303",75469,75469,"Pecan Gap","Delta","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"307",75473,75473,"Powderly","Lamar","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"308",75474,75474,"Quinlan","Hunt","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,1
+"311",75477,75477,"Roxton","Lamar","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low","No",NA,0,NA,NA
+"312",75478,75478,"Saltillo","Hopkins","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"313",75479,75479,"Savoy","Fannin","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"317",75482,75482,"Sulphur Springs","Hopkins","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","Yes","High","No","High",0,NA,NA
+"323",75491,75491,"Whitewright","Grayson","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"325",75493,75493,"Winfield","Titus","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","None","No","Low",0,NA,NA
+"326",75494,75494,"Winnsboro","Wood","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High","No",NA,0,NA,NA
+"329",75496,75496,"Wolfe City","Hunt","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"330",75497,75497,"Yantis","Wood","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"332",75501,75501,"Texarkana","Bowie","Low",NA,NA,"Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,NA,NA
+"336",75503,75503,"Texarkana","Bowie","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"338",75551,75551,"Atlanta","Cass","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Low","No","Low","No",NA,0,NA,3
+"339",75554,75554,"Avery","Red River","Low","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"341",75556,75556,"Bloomburg","Cass","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"343",75559,75559,"De Kalb","Bowie","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low","No",NA,0,NA,NA
+"345",75561,75561,"Hooks","Bowie","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Low","No","Low","No",NA,0,NA,NA
+"347",75563,75563,"Linden","Cass","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low","No",NA,0,NA,NA
+"350",75567,75567,"Maud","Bowie","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"352",75569,75569,"Nash","Bowie","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,NA,0,NA,NA
+"353",75570,75570,"New Boston","Bowie","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"354",75571,75571,"Omaha","Morris","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"355",75572,75572,"Queen City","Cass","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low","No",NA,0,NA,1
+"357",75574,75574,"Simms","Bowie","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low",NA,NA,0,NA,NA
+"358",75601,75601,"Longview","Gregg","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,3.09102564102564,NA,1
+"361",75602,75602,"Longview","Gregg","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,5.76477272727273,NA,NA
+"363",75603,75603,"Longview","Gregg","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"364",75604,75604,"Longview","Gregg","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,0,NA,2
+"368",75630,75630,"Avinger","Cass","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low",NA,NA,0,NA,NA
+"370",75633,75633,"Carthage","Panola","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","No","High",NA,NA,66.2361111111111,NA,2
+"372",75638,75638,"Daingerfield","Morris","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"379",75643,75643,"Gary","Panola","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"380",75644,75644,"Gilmer","Upshur","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,NA,NA
+"382",75647,75647,"Gladewater","Gregg","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"383",75650,75650,"Hallsville","Harrison","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","Yes","Low",NA,NA,84.8363636363637,NA,2
+"385",75652,75652,"Henderson","Rusk","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",26.6201761201761,NA,2
+"389",75654,75654,"Henderson","Rusk","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"392",75656,75656,"Hughes Springs","Cass","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"394",75657,75657,"Jefferson","Marion","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,30.6054245154245,NA,1
+"395",75661,75661,"Karnack","Harrison","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Low","No","Low",NA,NA,0,NA,1
+"396",75662,75662,"Kilgore","Gregg","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,103.275,NA,NA
+"399",75667,75667,"Laneville","Rusk","Med","Med","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,NA
+"402",75670,75670,"Marshall","Harrison","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,87.4900673400673,NA,2
+"406",75672,75672,"Marshall","Harrison","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low","No",NA,0,NA,1
+"407",75681,75681,"Mount Enterprise","Rusk","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"408",75682,75682,"New London","Rusk","Med","Med","Med","No","No Meals","Low","None","None","No",NA,"No","None",NA,"Low",0,NA,NA
+"409",75683,75683,"Ore City","Upshur","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"410",75684,75684,"Overton","Rusk","Med","Med","Med","No","Lunch","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"411",75686,75686,"Pittsburg","Camp","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,5.70757575757575,NA,NA
+"412",75691,75691,"Tatum","Rusk","Med","Med","High","No","Lunch Plus","High","High","Low","No","Low","No","Low",NA,"High",0,NA,NA
+"414",75692,75692,"Waskom","Harrison","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,NA,77.7636363636364,NA,1
+"417",75701,75701,"Tyler","Smith","Med","High","Low","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,18.36,NA,6
+"421",75702,75712,"Tyler","Smith","Med","High","Low","No","No Meals","Low","None","None","Yes","Med","No","None","No","Low",0,NA,NA
+"422",75702,75702,"Tyler","Smith","Med","High","Low","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",71.3188163688164,NA,16
+"423",75702,75710,"Tyler","Smith","Med","High","Low","No","Lunch Plus","Low","None","Low","Yes","Med","No","None","No","Low",47.890909090909,NA,1
+"424",75703,75703,"Tyler","Smith","Med","High","Low","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",22.8545454545455,NA,2
+"425",75704,75704,"Tyler","Smith","Med","High","Low","No","No Meals","Low","None","None","Yes","Med","Yes","Low",NA,"Low",0,NA,NA
+"426",75705,75705,"Tyler","Smith","Med","High","Low","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"428",75707,75707,"Tyler","Smith","Med","High","Low","No","Lunch Plus","Low","None","Low","No","High","Yes","High","No","Low",0,NA,NA
+"431",75750,75750,"Arp","Smith","Med","High","Low","No","No Meals","Low","None","None","Yes","Med","No","None",NA,"Low",0,NA,1
+"432",75751,75751,"Athens","Henderson","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,3
+"435",75755,75755,"Big Sandy","Upshur","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"437",75756,75756,"Brownsboro","Henderson","High","High","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,1
+"439",75758,75758,"Chandler","Henderson","High","High","Med","No","No Meals","Low","None","None","No","Med","Yes","Low",NA,"Low",0,NA,NA
+"441",75760,75760,"Cushing","Nacogdoches","Low","Low","Med","Yes","Lunch Plus","Low","None","Low","No","Low","No","Low","No","High",0,1,NA
+"443",75763,75763,"Frankston","Anderson","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,1
+"445",75765,75765,"Hawkins","Wood","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,NA,68.6181818181819,NA,1
+"446",75766,75766,"Jacksonville","Cherokee","Low","Low","Med","No","Lunch Plus","Low","None","High","No","Med","No","High",NA,"Low",16.1323512906846,NA,9
+"447",75770,75770,"Larue","Henderson","High","High","Med","No","Lunch Plus","Low","None","Low","No","High","No","None",NA,"Low",31.1891891891892,NA,NA
+"450",75773,75773,"Mineola","Wood","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,88.0433221099888,NA,3
+"452",75778,75778,"Murchison","Henderson","High","High","Med","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,1
+"454",75780,75780,"New Summerfield","Cherokee","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"Low",0,NA,NA
+"455",75783,75783,"Quitman","Wood","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","Low","No",NA,12.4092171717172,1,NA
+"457",75785,75785,"Rusk","Cherokee","Low","Low","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"Low",0.85,NA,3
+"460",75789,75789,"Troup","Smith","Med","High","Low","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",1.625,NA,NA
+"461",75790,75790,"Van","Van Zandt","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"463",75792,75792,"Winona","Smith","Med","High","Low","No","Lunch Plus","Low","None","Low","No","Med","No","None",NA,"Low",0,NA,NA
+"464",75801,75801,"Palestine","Anderson","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,49.7503787878788,NA,7
+"466",75803,75803,"Palestine","Anderson","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","No","Low",NA,NA,0,NA,NA
+"469",75831,75831,"Buffalo","Leon","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low","No",NA,0,NA,NA
+"472",75835,75835,"Crockett","Houston","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,34.5277777777778,NA,2
+"474",75839,75839,"Elkhart","Anderson","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"475",75840,75840,"Fairfield","Freestone","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High","No",NA,0,NA,NA
+"476",75844,75844,"Grapeland","Houston","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"477",75845,75845,"Groveton","Trinity","Low",NA,"Med","No","Lunch","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"480",75847,75847,"Kennard","Houston","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low","No",NA,0,NA,NA
+"487",75855,75855,"Oakwood","Leon","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low","No",NA,0,NA,NA
+"491",75860,75860,"Teague","Freestone","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","No","Low","No",NA,0,NA,NA
+"495",75862,75862,"Trinity","Trinity","Low",NA,"Med","No","Lunch Plus","Low","None","Low","No","High","No","High",NA,"High",0,NA,NA
+"496",75901,75901,"Lufkin","Angelina","Med","High","Med","Yes","Lunch Plus","High","None","High","No","Med","Yes","High","No",NA,0,1,2
+"497",75904,75904,"Lufkin","Angelina","Med","Low","High","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","High",0,1,2
+"501",75925,75925,"Alto","Cherokee","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"High",37.4324324324324,NA,1
+"503",75926,75926,"Apple Springs","Trinity","Low",NA,"Med","No","Lunch Plus","Low","High","Low","No","High","No","Low",NA,"Low",0,NA,NA
+"505",75929,75929,"Broaddus","San Augustine","Med","Med","Med","No","Lunch","High","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"508",75932,75932,"Burkeville","Newton",NA,"Med","Med","No","Lunch","Low","None","Low","Yes","Low","No","Low","No","Low",0,NA,NA
+"511",75935,75935,"Center","Shelby","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"513",75937,75937,"Chireno","Nacogdoches","High","Med","Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"514",75938,75938,"Colmesneil","Tyler","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"515",75939,75939,"Corrigan","Polk","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"516",75941,75941,"Diboll","Angelina","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"519",75944,75944,"Etoile","Nacogdoches","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"520",75946,75946,"Garrison","Nacogdoches","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"521",75948,75948,"Hemphill","Sabine","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","High","No","Low",NA,NA,0,1,NA
+"522",75949,75949,"Huntington","Angelina","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"523",75951,75951,"Jasper","Jasper","High","Med","Med","Yes","Lunch Plus","High","None","High","No","Med","No","High","No",NA,0,NA,NA
+"524",75954,75954,"Joaquin","Shelby","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"525",75956,75956,"Kirbyville","Jasper","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","High","No","High",0,NA,NA
+"528",75961,75961,"Nacogdoches","Nacogdoches","High","Med","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,1
+"531",75964,75964,"Nacogdoches","Nacogdoches","High","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,1
+"534",75966,75966,"Newton","Newton",NA,"Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"535",75968,75968,"Pineland","Sabine","Low",NA,NA,"No","Lunch","High","None","Low","No","High","No","Low","No",NA,0,NA,NA
+"536",75969,75969,"Pollok","Angelina","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","None",NA,"Low",0,NA,1
+"537",75972,75972,"San Augustine","San Augustine","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,"High",75.3157894736842,NA,NA
+"538",75973,75973,"Shelbyville","Shelby","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"539",75974,75974,"Tenaha","Shelby","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"540",75975,75975,"Timpson","Shelby","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"541",75976,75976,"Wells","Cherokee","Low","Low","Med","No","No Meals","Low","None","None","Yes","High","No","Low",NA,"Low",0,NA,NA
+"543",75978,75978,"Woden","Nacogdoches","High","Med","Med","No","No Meals","Low","None","None",NA,NA,"No","None",NA,"Low",0,NA,NA
+"544",75979,75979,"Woodville","Tyler","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"546",75980,75980,"Zavalla","Angelina","Med","Med","Med","No","No Meals","Low","None","None","Yes","High","No","Low",NA,"Low",0,NA,NA
+"547",76001,76001,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",16.5081967213115,NA,2
+"548",76002,76002,"Arlington","Tarrant","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","High","No","High",0,NA,NA
+"549",76006,76006,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","High","No","High","No","Low",0,NA,4
+"551",76009,76009,"Alvarado","Johnson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"Low",0,NA,NA
+"552",76010,76010,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",70.2469628086649,NA,19
+"555",76011,76011,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","High","Yes","High",NA,"Low",0,NA,10
+"556",76012,76012,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,2
+"557",76013,76013,"Arlington","Tarrant","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,55.9508771929825,1,5
+"560",76014,76014,"Arlington","Tarrant","Low","Med","Low","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","High",33.0655737704918,NA,8
+"561",76015,76015,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,2
+"565",76018,76018,"Arlington","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Low","Yes","High","No","Low",30.1025641025641,NA,8
+"567",76020,76020,"Azle","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"571",76022,76022,"Bedford","Tarrant","Med","High","Med","No","No Meals","Low","None","None","No","Med","No","High","No","Low",0,NA,1
+"572",76023,76023,"Boyd","Wise","Med","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"575",76031,76031,"Cleburne","Johnson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,3
+"576",76033,76033,"Cleburne","Johnson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","High",0,NA,7
+"579",76036,76036,"Crowley","Tarrant","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,1,NA
+"580",76039,76039,"Euless","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"581",76040,76040,"Euless","Tarrant",NA,"High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,5
+"585",76044,76044,"Godley","Johnson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"586",76048,76048,"Granbury","Hood","Low",NA,NA,"No","Lunch Plus","Low","High","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"593",76053,76053,"Hurst","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,5
+"595",76055,76055,"Itasca","Hill",NA,"Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"596",76058,76058,"Joshua","Johnson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"Low",0,NA,NA
+"597",76059,76059,"Keene","Johnson","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low","No","Low",0,NA,NA
+"604",76067,76067,"Mineral Wells","Palo Pinto","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"611",76082,76082,"Springtown","Parker","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"612",76084,76084,"Venus","Johnson","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Low","No","Low",NA,"High",0,NA,NA
+"624",76102,76102,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","High","No","Low","No","Low",20.56,NA,6
+"632",76103,76103,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,5
+"633",76104,76104,"Fort Worth","Tarrant","Med","High","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,11
+"634",76105,76105,"Fort Worth","Tarrant","High","High","High","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No",NA,0,3,8
+"635",76106,76106,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","Yes","Low","No","High","No","Low",0,NA,4
+"637",76107,76107,"Fort Worth","Tarrant","Med","Med","Low","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,0,NA,3
+"639",76108,76108,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","High","Low","No","Med","Yes","High","No","Low",0,NA,2
+"643",76110,76110,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,6
+"644",76111,76111,"Fort Worth","Tarrant","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","High",0,NA,3
+"646",76112,76112,"Fort Worth","Tarrant","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,2,7
+"647",76114,76114,"Fort Worth","Tarrant","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","High",0,NA,2
+"649",76115,76115,"Fort Worth","Tarrant","Med","High","Low","No","Lunch Plus","Low","High","High","Yes","Med","No","High","No",NA,0,1,5
+"651",76116,76116,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,7
+"652",76117,76117,"Haltom City","Tarrant","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,1,8
+"653",76118,76118,"Fort Worth","Tarrant","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","Low","No",NA,0,NA,1
+"654",76119,76119,"Fort Worth","Tarrant","Med","Med","Med","No","Lunch Plus","Low","High","High","No","Med","No","High","No",NA,57.26,NA,7
+"655",76120,76120,"Fort Worth","Tarrant","Med","High","Med","Yes","Lunch Plus","Low","High","High","No","Med","Yes","High","No","Low",0,NA,2
+"656",76123,76123,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,1
+"661",76132,76132,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,2
+"664",76133,76133,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,9
+"665",76134,76134,"Fort Worth","Tarrant","Med","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,1
+"666",76135,76135,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,1
+"668",76140,76140,"Fort Worth","Tarrant","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,1
+"669",76148,76148,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,2
+"671",76164,76164,"Fort Worth","Tarrant","Med","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,3
+"680",76201,76201,"Denton","Denton","Med","Med","Low","Yes","Lunch Plus","Low","None","High","Yes","High","Yes","High","No",NA,0,NA,1
+"684",76205,76205,"Denton","Denton","High","High","Med","No","Lunch Plus","Low","None","High","Yes","High","Yes","High","No","Low",0,NA,2
+"685",76207,76207,"Denton","Denton","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"687",76209,76209,"Denton","Denton","High","High","Med","No","Lunch","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"692",76228,76228,"Bellevue","Clay","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","None",NA,NA,0,NA,NA
+"693",76230,76230,"Bowie","Montague","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","Yes","High",NA,NA,0,NA,NA
+"694",76233,76233,"Collinsville","Grayson","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"695",76234,76267,"Slidell","Wise","Med","Low","Med","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"699",76239,76239,"Forestburg","Montague","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","None",NA,NA,0,NA,NA
+"700",76240,76240,"Gainesville","Cooke","Low","Med","Low","Yes","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","High",0,NA,NA
+"711",76255,76255,"Nocona","Montague","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,NA,0,NA,NA
+"712",76258,76258,"Pilot Point","Denton","Low","Med","High","No","Lunch Plus","High","None","Low","No","Med","No","Low","No","High",0,1,NA
+"720",76268,76268,"Southmayd","Grayson","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"724",76273,76273,"Whitesboro","Grayson","High","Med","Med","Yes","Lunch Plus","Low","High","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"725",76301,76301,"Wichita Falls","Wichita","Med","High","Med","Yes","Lunch Plus","High","Low","Low","No","High","No","High","No",NA,0,3,5
+"726",76301,76307,"Wichita Falls","Wichita","Med","Med","Med","Yes","No Meals","Low","None","None","No","High","No","None","No","Low",0,3,NA
+"727",76302,76302,"Wichita Falls","Wichita","Med","Med","Low","No","Lunch","Low","None","Low","No","Med","No","High","No",NA,0,NA,2
+"728",76305,76305,"Wichita Falls","Wichita","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"729",76306,76306,"Wichita Falls","Wichita","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"735",76354,76354,"Burkburnett","Wichita","Med","Med","Med","Yes","Lunch Plus","High","High","Low","No","Med","Yes","Low",NA,"High",0,1,NA
+"737",76360,76360,"Electra","Wichita","Low","Low","Med","No","No Meals","High","None","None","No","Med","No","Low","No","High",0,NA,NA
+"740",76364,76364,"Harrold","Wilbarger","Med","Med","Med","No","No Meals","Low","None","None",NA,NA,"No","Low",NA,"Low",0,NA,NA
+"746",76371,76371,"Munday","Knox","Low","Med","Med","Yes","Lunch Plus","High","Low","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"747",76372,76372,"Newcastle","Young","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low",NA,NA,0,NA,NA
+"749",76374,76374,"Olney","Young","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"752",76380,76380,"Seymour","Baylor","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"753",76384,76384,"Vernon","Wilbarger","Med","Med","Med","Yes","No Meals","Low","High","None","No","Med","Yes","High",NA,"High",0,NA,NA
+"757",76401,76401,"Stephenville","Erath","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","High","No","High",0,1,2
+"759",76424,76424,"Breckenridge","Stephens","Low",NA,NA,"No","Lunch Plus","High","High","Low","No","Med","No","High",NA,NA,0,NA,NA
+"760",76426,76426,"Bridgeport","Wise","Med","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"764",76431,76431,"Chico","Wise","Med","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"765",76432,76432,"Blanket","Brown","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"771",76437,76437,"Cisco","Eastland","Low","Low","Med","No","Lunch","Low","None","Low","Yes","High","No","Low","No","Low",0,NA,NA
+"772",76442,76442,"Comanche","Comanche","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"773",76443,76443,"Cross Plains","Callahan","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","Yes","Low",NA,NA,0,NA,NA
+"774",76444,76444,"De Leon","Comanche","Low",NA,NA,"No","No Meals","High","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"775",76445,76445,"Desdemona","Eastland","Low","Low","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,NA
+"776",76446,76446,"Dublin","Erath","Med","Low","High","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,1,NA
+"778",76446,76461,"Lingleville","Erath","Med","Low","High","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"779",76448,76448,"Eastland","Eastland","Low","Low","Med","No","No Meals","Low","None","None","Yes","High","No","High",NA,"Low",0,NA,NA
+"780",76449,76449,"Graford","Palo Pinto","Low",NA,NA,"No","Lunch","Low","None","Low","No","Low","No","Low",NA,NA,0,NA,NA
+"781",76450,76450,"Graham","Young","Low",NA,NA,"No","Lunch Plus","High","Low","Low","No","Med","No","High",NA,NA,0,NA,NA
+"784",76454,76454,"Gorman","Eastland","Low","Low","Med","No","No Meals","Low","None","None","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"786",76457,76457,"Hico","Hamilton","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Med","Yes","Low",NA,NA,0,NA,NA
+"787",76458,76458,"Jacksboro","Jack","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"790",76462,76462,"Lipan","Hood","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","No","Low","No",NA,0,NA,NA
+"792",76464,76464,"Moran","Shackelford","Med","Med","Med","No","No Meals","Low","None","None","Yes","Med","No","None",NA,"Low",0,NA,NA
+"795",76470,76470,"Ranger","Eastland","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Med",0,1,NA
+"796",76471,76471,"Rising Star","Eastland","Low","Low","Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"798",76474,76474,"Sidney","Comanche","Low",NA,NA,"No","No Meals","Low","None","None",NA,"Med","No","None",NA,NA,0,NA,NA
+"799",76475,76475,"Strawn","Palo Pinto","Low",NA,NA,"No","No Meals","High","High","None","Yes","High","No","Low",NA,NA,0,NA,NA
+"803",76484,76484,"Palo Pinto","Palo Pinto","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low","No",NA,0,NA,NA
+"805",76487,76487,"Poolville","Parker","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"807",76491,76491,"Woodson","Throckmorton","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"811",76501,76501,"Temple","Bell","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,5
+"812",76502,76502,"Temple","Bell","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"813",76504,76504,"Temple","Bell","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,3,2
+"815",76511,76511,"Bartlett","Bell","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","High","No","Low",NA,"Low",0,NA,NA
+"816",76513,76513,"Belton","Bell","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"817",76518,76518,"Buckholts","Milam","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"819",76520,76520,"Cameron","Milam","Low","Low","Med","No","Lunch Plus","High","Low","Low","No","Med","No","High","No","High",0,1,NA
+"820",76522,76522,"Copperas Cove","Coryell","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"822",76524,76524,"Eddy","Mclennan","High","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"823",76525,76525,"Evant","Coryell","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"824",76527,76527,"Florence","Williamson","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"Low",0,1,NA
+"825",76528,76528,"Gatesville","Coryell","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"828",76530,76530,"Granger","Williamson","Med","Med","Med","No","Lunch","Low","None","Low","No","Low","No","Low",NA,"Low",0,NA,NA
+"829",76531,76531,"Hamilton","Hamilton","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"831",76537,76537,"Jarrell","Williamson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"832",76538,76538,"Jonesboro","Coryell","Low",NA,NA,"No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"836",76541,76541,"Killeen","Bell","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,3
+"837",76542,76542,"Killeen","Bell","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,12
+"838",76543,76543,"Killeen","Bell","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,NA,9
+"839",76544,76544,"Killeen","Bell","Med","Med",NA,"No","Lunch Plus","Low","None","Low","No","Low","No","Low","No","High",0,1,7
+"841",76549,76549,"Killeen","Bell","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","High",0,NA,6
+"842",76550,76550,"Lampasas","Lampasas","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"844",76556,76556,"Milano","Milam","Low","Low","Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"845",76557,76557,"Moody","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"846",76559,76559,"Nolanville","Bell","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,3
+"847",76561,76561,"Oglesby","Coryell","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","None",NA,NA,0,NA,NA
+"850",76567,76567,"Rockdale","Milam","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"852",76570,76570,"Rosebud","Falls","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"855",76574,76574,"Taylor","Williamson","Low","Med","Low","No","Lunch Plus","High","High","High","No","Med","No","High","No","High",0,NA,NA
+"859",76579,76579,"Troy","Bell","High","High","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"865",76622,76622,"Aquilla","Hill",NA,"Med","Low","No","Lunch","Low","None","Low","No","Low","No","None",NA,"Low",0,NA,NA
+"866",76623,76623,"Avalon","Ellis","Low","Low","Med","Yes","Lunch","Low","None","Low",NA,NA,"No","None",NA,"Med",0,NA,NA
+"867",76624,76624,"Axtell","Mclennan","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"868",76626,76626,"Blooming Grove","Navarro","Med","Med","Med","No","No Meals","Low","None","None","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"869",76627,76627,"Blum","Hill",NA,"Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"873",76631,76631,"Bynum","Hill",NA,"Med","Low","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"874",76632,76632,"Chilton","Falls","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","None","No",NA,0,NA,NA
+"877",76634,76634,"Clifton","Bosque","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low","No",NA,0,NA,NA
+"878",76635,76635,"Coolidge","Limestone","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"879",76636,76636,"Covington","Hill",NA,"Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"880",76637,76637,"Cranfills Gap","Bosque","Low",NA,NA,"No","No Meals","Low","None","None","Yes","High","No","Low",NA,NA,0,NA,NA
+"882",76639,76639,"Dawson","Navarro","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"883",76640,76640,"Elm Mott","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low","No","Low",0,NA,NA
+"884",76641,76641,"Frost","Navarro","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"885",76642,76642,"Groesbeck","Limestone","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High",NA,NA,0,NA,NA
+"887",76645,76645,"Hillsboro","Hill",NA,"Med","Low","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"High",0,NA,1
+"888",76648,76648,"Hubbard","Hill",NA,"Med","Low","No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,"Low",0,NA,NA
+"889",76649,76649,"Iredell","Bosque","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"891",76651,76651,"Italy","Ellis","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","High",NA,"Low",0,NA,NA
+"892",76652,76652,"Kopperl","Bosque","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Med","No","None","No",NA,0,NA,NA
+"896",76656,76656,"Lott","Falls","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low","No",NA,0,NA,NA
+"897",76657,76657,"Mc Gregor","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"898",76660,76660,"Malone","Hill",NA,"Med","Low","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"899",76661,76661,"Marlin","Falls","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"900",76664,76664,"Mart","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"901",76665,76665,"Meridian","Bosque","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"903",76667,76667,"Mexia","Limestone","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High",NA,NA,0,NA,NA
+"904",76670,76670,"Milford","Ellis","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Med",0,1,NA
+"905",76671,76671,"Morgan","Bosque","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"906",76673,76673,"Mount Calm","Hill",NA,"Med","Low","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"916",76689,76689,"Valley Mills","Bosque","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Low","Yes","Low",NA,NA,0,NA,NA
+"918",76691,76691,"West","Mclennan","High","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"920",76692,76692,"Whitney","Hill",NA,"Med","Low","No","Lunch Plus","High","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"924",76704,76704,"Waco","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,NA
+"925",76705,76705,"Waco","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,3
+"926",76706,76706,"Waco","Mclennan","High","Med","Med","Yes","Lunch Plus","Low","None","High","Yes","High","No","High","No","Low",0,NA,NA
+"927",76707,76707,"Waco","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,NA
+"928",76708,76708,"Waco","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"929",76710,76710,"Waco","Mclennan","High","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"933",76711,76711,"Waco","Mclennan","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"936",76712,76702,"Waco","Mclennan","High","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","None","No","Low",0,NA,NA
+"939",76801,76801,"Brownwood","Brown","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","High",0,NA,NA
+"944",76821,76821,"Ballinger","Runnels","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"945",76823,76823,"Bangs","Brown","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"947",76825,76825,"Brady","Mcculloch","Low","Low","Med","No","Lunch Plus","High","High","Low","Yes","Med","No","High",NA,"Low",0,NA,NA
+"948",76827,76827,"Brookesmith","Brown","Med","Med","Med","No","No Meals","Low","None","None",NA,"High","No","None",NA,"Low",0,NA,NA
+"951",76832,76832,"Cherokee","San Saba","Low",NA,NA,"No","No Meals","Low","None","None","No",NA,"No","None",NA,NA,0,NA,NA
+"952",76834,76834,"Coleman","Coleman","Med","Med","Med","Yes","Lunch","Low","None","Low","No","High","No","High",NA,"High",0,NA,NA
+"954",76837,76837,"Eden","Concho","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","Yes","Low",NA,NA,0,NA,NA
+"958",76844,76844,"Goldthwaite","Mills","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low",NA,NA,0,NA,NA
+"961",76849,76849,"Junction","Kimble","Low",NA,NA,"No","No Meals","Low","None","None","No","High","Yes","Low",NA,NA,0,NA,NA
+"963",76852,76852,"Lohn","Mcculloch","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Low","No","None",NA,"Med",0,NA,NA
+"964",76853,76853,"Lometa","Lampasas","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,NA,0,NA,NA
+"966",76856,76856,"Mason","Mason","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,NA,0,NA,NA
+"967",76857,76857,"May","Brown","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","None",NA,"Low",0,NA,NA
+"969",76859,76859,"Menard","Menard","Low","Med","Med","No","Lunch","Low","None","Low","No","Low","Yes","Low",NA,"High",0,1,NA
+"972",76864,76864,"Mullin","Mills","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"974",76866,76866,"Paint Rock","Concho","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Med","No","Low",NA,NA,0,NA,NA
+"976",76870,76870,"Priddy","Mills","Low",NA,NA,"No","No Meals","Low","None","None",NA,"High","No","None",NA,NA,0,NA,NA
+"977",76871,76871,"Richland Springs","San Saba","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","None",NA,NA,0,NA,NA
+"978",76872,76872,"Rochelle","Mcculloch","Low","Low","Med","No","No Meals","Low","None","None","No",NA,"No","None",NA,"Low",0,NA,NA
+"982",76875,76875,"Rowena","Runnels","Low","Low","Med","No","No Meals","Low","None","None","No","Low","No","None",NA,"Low",0,NA,NA
+"983",76877,76877,"San Saba","San Saba","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","Yes","Low",NA,NA,0,NA,NA
+"984",76878,76878,"Santa Anna","Coleman","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"986",76884,76884,"Valera","Coleman","Med","Med","Med","No","Lunch","Low","None","Low","No","High","No","None",NA,"Low",0,NA,NA
+"990",76890,76890,"Zephyr","Brown","Med","Med","Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"991",76901,76901,"San Angelo","Tom Green","Med","Low","High","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","High",0,NA,NA
+"992",76903,76903,"San Angelo","Tom Green","High","Med","Med","No","Lunch Plus","High","Low","High","No","Med","Yes","High","No",NA,0,NA,NA
+"995",76904,76904,"San Angelo","Tom Green","Med","Med","Med","No","No Meals","Low","None","None","No","Med","Yes","High","No","Low",0,NA,NA
+"998",76905,76905,"San Angelo","Tom Green","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","None","No","Low",0,NA,NA
+"1001",76932,76932,"Big Lake","Reagan","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Low","Yes","Low",NA,"High",0,NA,NA
+"1011",76945,76945,"Robert Lee","Coke","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"1022",77002,77002,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","High","No","High","No","Low",0,NA,6
+"1028",77003,77003,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","High","No","High","Yes","Low",0,NA,7
+"1031",77004,77004,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","Yes","Low",106.175425219941,NA,33
+"1036",77007,77007,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,12
+"1038",77008,77008,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,8
+"1040",77009,77009,"Houston","Harris","High","High","Med","Yes","Lunch Plus","High","Low","High","No","Med","No","High","No","Low",75.86,5,20
+"1043",77011,77011,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,10
+"1044",77012,77012,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,21
+"1047",77013,77013,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,7
+"1052",77014,77014,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,6
+"1053",77015,77015,"Houston","Harris","High","High","Med","No","Lunch Plus","High","None","High","No","Med","Yes","High","No","Low",0,NA,6
+"1054",77016,77016,"Houston","Harris","High","High","Med","No","Lunch Plus","High","None","High","Yes","Med","No","High","No","Low",0,NA,10
+"1058",77017,77017,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Low","No","High","No","Low",34.12,NA,12
+"1061",77018,77018,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,14
+"1063",77019,77019,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","Low","No","Low",131.56,NA,7
+"1066",77020,77020,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",33.12,NA,23
+"1068",77021,77021,"Houston","Harris","High","High","Med","No","Lunch Plus","High","High","High","Yes","Med","No","High","Yes","Low",0,NA,20
+"1069",77022,77022,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,12
+"1071",77023,77023,"Houston","Harris","Med","High","Low","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,NA,10
+"1075",77025,77025,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,7
+"1076",77026,77026,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","Yes","Low",0,NA,23
+"1082",77028,77028,"Houston","Harris",NA,"High","High","No","Lunch Plus","High","High","High","No","Med","No","High","No",NA,56.7958944281525,26,19
+"1083",77029,77029,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,7
+"1087",77031,77031,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,4
+"1090",77032,77032,"Houston","Harris","High","High","Med","No","Lunch Plus","High","High","High","Yes","Low","No","High","No","Low",0,NA,7
+"1091",77033,77033,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","Yes","Low",8.44,NA,18
+"1093",77034,77034,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,4
+"1095",77035,77035,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","Yes","Low",53.579575559239,NA,9
+"1100",77036,77036,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","High","High","No","Med","Yes","High","No","Low",35.145641025641,NA,17
+"1101",77037,77037,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,7
+"1102",77038,77038,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,5
+"1103",77039,77039,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,9
+"1105",77040,77040,"Houston","Harris","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,5
+"1107",77041,77041,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,4
+"1108",77042,77042,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",24.0225641025641,NA,3
+"1111",77043,77043,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low","No","Low",0,NA,1
+"1112",77044,77044,"Houston","Harris","High","High","Med","No","Lunch Plus","High","High","Low","No","Low","Yes","High","No","Low",0,NA,3
+"1113",77045,77045,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",8.72,NA,17
+"1115",77047,77047,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",28.3540345956054,NA,8
+"1116",77048,77048,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",192.738698816118,NA,12
+"1117",77049,77049,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,5
+"1120",77051,77051,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","Yes","Low",11.9333333333333,NA,16
+"1121",77053,77053,"Houston","Fort Bend","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",147.358333333333,NA,4
+"1124",77054,77054,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","Yes","Low",0,NA,1
+"1125",77055,77055,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,5
+"1129",77057,77057,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","High","No","High","No","Low",0,NA,6
+"1133",77060,77060,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","Yes","Low",0,5,12
+"1134",77061,77061,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,10
+"1139",77063,77063,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","High","Yes","High","Yes","Low",9.64,NA,8
+"1140",77064,77064,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,2
+"1141",77065,77065,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,3
+"1142",77066,77066,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",9.35,NA,4
+"1144",77067,77067,"Houston","Harris","Med","Med","Med","No","Lunch Plus","High","None","High","No","Med","No","High","No",NA,0,NA,8
+"1145",77068,77068,"Houston","Harris","High","High","Med","No","Lunch","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,2
+"1146",77069,77069,"Houston","Harris","High","High","Med","No","No Meals","Low","None","None","No","High","Yes","High","No","Low",0,NA,NA
+"1149",77071,77071,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,6
+"1152",77072,77072,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",33.6102564102564,NA,10
+"1153",77073,77073,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,10
+"1154",77074,77074,"Houston","Harris","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",39.7340175953079,NA,15
+"1156",77075,77075,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,7
+"1159",77076,77076,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,13
+"1161",77077,77077,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,10
+"1164",77078,77078,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","Low","No","Low",31.66,NA,6
+"1169",77080,77080,"Houston","Harris","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,5
+"1170",77081,77081,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","Yes","Low",97.12,NA,13
+"1171",77082,77082,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,3
+"1172",77083,77083,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",133.334017595308,NA,9
+"1174",77084,77084,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,3
+"1175",77085,77085,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","Low","No","Low",4.67741935483871,NA,4
+"1176",77086,77086,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","Low","Yes","High","No","Low",0,NA,8
+"1177",77087,77087,"Houston","Harris","High","High","Med","No","Lunch Plus","High","High","High","No","Med","No","High","No","Low",0,NA,8
+"1178",77088,77088,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",18.14,NA,28
+"1180",77089,77089,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,8
+"1183",77090,77090,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",12.3,NA,12
+"1186",77091,77091,"Houston","Harris","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","Yes","Low",17.0173020527859,NA,21
+"1187",77092,77092,"Houston","Harris","Med","Med","Low","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","High",0,NA,16
+"1188",77093,77093,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,15
+"1192",77096,77096,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,11
+"1194",77099,77099,"Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",113.988502128502,NA,8
+"1200",77301,77301,"Conroe","Montgomery","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"1201",77302,77302,"Conroe","Montgomery","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low","No","Low",0,NA,NA
+"1202",77303,77303,"Conroe","Montgomery","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","High","No","Low",0,NA,NA
+"1203",77304,77304,"Conroe","Montgomery","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","Yes","High","No","Low",0,NA,NA
+"1204",77306,77306,"Conroe","Montgomery","Med","Med","Med","No","No Meals","Low","None","None","Yes","Low","No","High",NA,"Low",0,NA,NA
+"1207",77318,77318,"Willis","Montgomery","Med","Med","Med","No","No Meals","Low","None","None","No","Med","Yes","High",NA,"Low",0,NA,NA
+"1209",77320,77320,"Huntsville","Walker","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","Med","No","Low","No",NA,0,NA,4
+"1214",77327,77327,"Cleveland","Liberty","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"1216",77331,77331,"Coldspring","San Jacinto","Low",NA,NA,"No","Lunch Plus","High","High","Low","No","Med","No","Low","No",NA,0,NA,NA
+"1218",77335,77335,"Goodrich","Polk","Med","Med","High","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1220",77338,77338,"Humble","Harris","High","High","Med","No","Lunch Plus","High","High","High","No","Med","Yes","High","No","Low",0,NA,7
+"1225",77340,77340,"Huntsville","Walker","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","Yes","High",NA,NA,0,NA,1
+"1229",77350,77350,"Leggett","Polk","Med","Med","High","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"1231",77351,77351,"Livingston","Polk","Med","Med","High","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,NA,1
+"1232",77351,77332,"Dallardsville","Polk","Med","Med","High","No","No Meals","Low","None","None","No","Med","No","None","No","Low",0,NA,NA
+"1235",77355,77355,"Magnolia","Montgomery","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,NA,NA
+"1237",77357,77357,"New Caney","Montgomery","Med","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",0,NA,NA
+"1238",77358,77358,"New Waverly","Walker","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","High",NA,NA,0,NA,NA
+"1240",77360,77360,"Onalaska","Polk","Med","Med","High","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"1244",77365,77365,"Porter","Montgomery","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,1
+"1248",77371,77371,"Shepherd","San Jacinto","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"1249",77372,77372,"Splendora","Montgomery","Low","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,NA,NA
+"1250",77373,77373,"Spring","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,5
+"1256",77378,77378,"Willis","Montgomery","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"1270",77396,77396,"Humble","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",13.3786036036036,NA,3
+"1275",77412,77412,"Altair","Colorado","Low",NA,NA,"No","No Meals","High","None","None",NA,NA,"No","None","Yes",NA,0,NA,NA
+"1277",77414,77414,"Bay City","Matagorda","Low","Med","High","Yes","Lunch Plus","High","None","Low","No","Med","No","High","No","High",0,NA,NA
+"1279",77417,77417,"Beasley","Fort Bend","Med","Med","Low","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"1282",77419,77419,"Blessing","Matagorda","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1283",77420,77420,"Boling","Wharton",NA,"Med","Low","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1284",77422,77422,"Brazoria","Brazoria","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"1285",77423,77423,"Brookshire","Waller","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,119.365249266862,NA,3
+"1290",77430,77430,"Damon","Brazoria","Med","Med","Med","No","Lunch","High","Low","Low","No","Med","No","None",NA,"Low",0,NA,NA
+"1293",77434,77434,"Eagle Lake","Colorado","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","High","No","High",NA,NA,0,NA,NA
+"1296",77437,77437,"El Campo","Wharton",NA,"Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"1297",77440,77440,"Elmaton","Matagorda","Med","Med","Med","No","No Meals","Low","None","None",NA,NA,"No","None",NA,"Low",0,NA,NA
+"1299",77442,77442,"Garwood","Colorado","Low",NA,NA,"No","No Meals","Low","None","None","No",NA,"No","Low",NA,NA,0,NA,NA
+"1302",77445,77445,"Hempstead","Waller","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High",NA,NA,0,NA,NA
+"1303",77446,77446,"Prairie View","Waller","Low",NA,NA,"No","No Meals","Low","None","None","Yes","High","No","None","No",NA,0,NA,NA
+"1304",77447,77447,"Hockley","Harris","High","High","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"1306",77449,77449,"Katy","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"1311",77455,77455,"Louise","Wharton",NA,"Med","Low","No","No Meals","Low","None","None","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1313",77457,77457,"Matagorda","Matagorda","Med","Med","Med","No","No Meals","Low","None","None",NA,NA,"No","Low",NA,"Low",0,NA,NA
+"1318",77464,77464,"Orchard","Fort Bend","Med","Med","Low","No","No Meals","Low","None","None","Yes","Low","No","Low",NA,"Low",0,NA,NA
+"1319",77465,77465,"Palacios","Matagorda","Med","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,"High",0,NA,NA
+"1323",77469,77469,"Richmond","Fort Bend","Med","Med","Low","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",208.083333333333,NA,1
+"1325",77471,77471,"Rosenberg","Fort Bend","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,1
+"1327",77474,77474,"Sealy","Austin","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,3
+"1328",77475,77475,"Sheridan","Colorado","Low",NA,NA,"No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"1330",77477,77477,"Stafford","Fort Bend","Med","Med","Low","Yes","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",287.25,NA,3
+"1337",77480,77480,"Sweeny","Brazoria","Med","Med","Med","No","No Meals","High","Low","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1340",77482,77482,"Van Vleck","Matagorda","Med","Med","Med","No","No Meals","Low","None","Low","No","Low","No","Low","No","Low",0,NA,NA
+"1342",77484,77484,"Waller","Harris","High","High","Med","No","Lunch Plus","High","None","Low","Yes","Med","No","High","No","Low",0,NA,NA
+"1343",77485,77485,"Wallis","Austin","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"1345",77488,77488,"Wharton","Wharton",NA,"Med","Low","Yes","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"1346",77489,77489,"Missouri City","Fort Bend","Med","Med","Low","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",63.5059824046921,NA,4
+"1348",77493,77493,"Katy","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"1353",77502,77502,"Pasadena","Harris","High","High","Med","No","Lunch Plus","High","High","High","No","Low","No","High","No",NA,0,NA,2
+"1354",77503,77503,"Pasadena","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,4
+"1355",77504,77504,"Pasadena","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,2
+"1359",77506,77506,"Pasadena","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,8
+"1362",77511,77511,"Alvin","Brazoria","Med","Med","Med","No","Lunch Plus","High","Low","Low","No","Med","No","High",NA,"High",0,1,1
+"1364",77514,77514,"Anahuac","Chambers","Low",NA,NA,"No","Lunch Plus","Low","Low","Low","Yes","Med","No","High",NA,NA,0,NA,NA
+"1365",77515,77515,"Angleton","Brazoria","Med","Med","Med","Yes","Lunch Plus","High","High","High","No","Low","Yes","High","No",NA,0,2,NA
+"1368",77518,77518,"Bacliff","Galveston","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"1370",77520,77520,"Baytown","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,11
+"1371",77521,77521,"Baytown","Harris","High","Med","High","Yes","Lunch Plus","Low","High","High","No","Med","Yes","High","No",NA,134.625,2,13
+"1373",77530,77530,"Channelview","Harris","Med","Med","Med","No","Lunch Plus","High","High","Low","No","Med","No","High","No",NA,0,1,NA
+"1374",77531,77531,"Clute","Brazoria","Med","Med","Med","No","Lunch Plus","High","None","Low","Yes","Med","No","High","No","Low",0,NA,1
+"1375",77532,77532,"Crosby","Harris","Med","Low","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","High",0,1,3
+"1376",77533,77533,"Daisetta","Liberty","Low","Low","Med","No","Lunch Plus","High","None","Low","No","High","No","Low",NA,"Low",0,NA,NA
+"1378",77535,77535,"Dayton","Liberty","Med","Low","Med","No","Lunch Plus","High","High","Low","No","Low","No","High",NA,"High",0,1,NA
+"1381",77539,77539,"Dickinson","Galveston","High","High","Med","No","Lunch Plus","High","High","Low","No","Med","Yes","High","No","Low",0,NA,1
+"1383",77541,77541,"Freeport","Brazoria","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"1384",77545,77545,"Fresno","Fort Bend","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Low","No","High","No","Low",0,2,NA
+"1387",77547,77547,"Galena Park","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","High","No","Low",0,NA,1
+"1390",77550,77550,"Galveston","Galveston","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",78.9954954954955,NA,13
+"1392",77551,77551,"Galveston","Galveston","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,6
+"1393",77554,77554,"Galveston","Galveston","High","High","Med","No","No Meals","Low","None","None","No","High","No","Low","No","Low",0,NA,NA
+"1396",77562,77562,"Highlands","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,4
+"1397",77563,77563,"Hitchcock","Galveston","High","High","Med","No","Lunch Plus","Low","None","Low","No","High","No","High","No","Low",0,NA,NA
+"1398",77564,77564,"Hull","Liberty","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","None",NA,"Low",0,NA,NA
+"1399",77565,77565,"Kemah","Galveston","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low","No","Low",0,NA,NA
+"1401",77568,77568,"La Marque","Galveston","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"1402",77571,77571,"La Porte","Harris","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,2
+"1407",77575,77575,"Liberty","Liberty","Low","Low","Med","No","Lunch Plus","Low","None","High","No","Med","No","High",NA,"Low",0,NA,NA
+"1409",77578,77578,"Manvel","Brazoria","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"Low",0,NA,NA
+"1413",77583,77583,"Rosharon","Brazoria","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","High","No","Low",144.991891891892,NA,1
+"1417",77587,77587,"South Houston","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,2
+"1419",77590,77590,"Texas City","Galveston","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"1420",77591,77591,"Texas City","Galveston","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"1422",77598,77598,"Webster","Harris","High","High","Med","No","Lunch Plus","Low","None","Low","No","High","Yes","High","No","Low",0,NA,1
+"1425",77613,77613,"China","Jefferson","High","Med","Med","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"1428",77616,77616,"Fred","Tyler","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"1432",77623,77623,"High Island","Galveston","High","High","Med","No","No Meals","Low","None","None","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1438",77630,77630,"Orange","Orange","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,1,NA
+"1439",77630,77631,"Orange","Orange","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","None","No","Low",0,NA,NA
+"1443",77640,77640,"Port Arthur","Jefferson","High","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"1445",77642,77642,"Port Arthur","Jefferson","High","High","High","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,92.6009009009009,1,1
+"1446",77650,77650,"Port Bolivar","Galveston","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"Low",0,NA,1
+"1448",77655,77655,"Sabine Pass","Jefferson","High","Med","Med","No","No Meals","Low","None","None","Yes","Low","No","None","No","Low",0,NA,NA
+"1449",77656,77656,"Silsbee","Hardin","High","High","Med","Yes","Lunch Plus","Low","Low","High","No","Med","No","High","No",NA,0,1,6
+"1452",77660,77660,"Spurger","Tyler","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"1454",77662,77662,"Vidor","Orange","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"1458",77665,77665,"Winnie","Chambers","Low",NA,NA,"No","Lunch","Low","None","Low","Yes","Med","No","High",NA,NA,0,NA,NA
+"1460",77701,77701,"Beaumont","Jefferson","High","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","Yes","High","No","Low",0,NA,1
+"1461",77702,77702,"Beaumont","Jefferson","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,2
+"1462",77703,77703,"Beaumont","Jefferson","High","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No",NA,135.502346041056,2,5
+"1463",77705,77705,"Beaumont","Jefferson","High","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,4
+"1468",77707,77707,"Beaumont","Jefferson","High","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,2
+"1471",77708,77708,"Beaumont","Jefferson","High","Med","Med","Yes","Lunch Plus","Low","None","Low","No","High","Yes","High",NA,"Low",0,NA,4
+"1473",77801,77801,"Bryan","Brazos","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","High","No","High","No","Low",0,NA,NA
+"1475",77802,77802,"Bryan","Brazos","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"1477",77803,77803,"Bryan","Brazos","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"1478",77807,77807,"Bryan","Brazos","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"1480",77808,77808,"Bryan","Brazos","High","High","Med","Yes","Lunch Plus","Low","High","Low","No","Med","Yes","Low",NA,NA,0,NA,NA
+"1484",77833,77833,"Brenham","Washington","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,1
+"1486",77835,77835,"Burton","Washington","Low",NA,NA,"No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"1488",77836,77836,"Caldwell","Burleson","Low","Med","High","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"1491",77837,77837,"Calvert","Robertson","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Med",0,1,NA
+"1499",77853,77853,"Dime Box","Lee","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"1503",77857,77857,"Gause","Milam","Low","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1505",77859,77859,"Hearne","Robertson","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"1507",77864,77864,"Madisonville","Madison","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"1510",77867,77867,"Mumford","Robertson","Med","Med","Med","No","No Meals","High","None","None",NA,NA,"No","None",NA,"High",0,1,NA
+"1511",77868,77868,"Navasota","Grimes","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"1514",77872,77872,"North Zulch","Madison","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"High",0,1,NA
+"1515",77873,77873,"Richards","Grimes","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Low","No","None",NA,NA,0,NA,NA
+"1517",77878,77878,"Snook","Burleson","Low","Med","High","No","Lunch Plus","High","High","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1518",77879,77879,"Somerville","Burleson","Low","Med","High","No","Lunch Plus","Low","High","Low","No","Med","No","High","No","High",0,NA,NA
+"1520",77901,77901,"Victoria","Victoria","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"1521",77901,77902,"Victoria","Victoria","High","High","Med","No","No Meals","Low","None","None","No","Med","No","None","No","Low",0,NA,NA
+"1522",77904,77904,"Victoria","Victoria","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"1524",77905,77905,"Victoria","Victoria","High","High","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"1526",77951,77951,"Bloomington","Victoria","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"1527",77954,77954,"Cuero","De Witt","Med","Med","Med","Yes","Lunch Plus","High","None","Low","No","Med","No","High",NA,"High",0,1,NA
+"1529",77957,77957,"Edna","Jackson","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"1532",77962,77962,"Ganado","Jackson","Low",NA,NA,"No","No Meals","High","None","None","No","Med","Yes","Low",NA,NA,0,1,NA
+"1542",77975,77975,"Moulton","Lavaca","Low","Low","High","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Med",0,NA,NA
+"1544",77977,77977,"Placedo","Victoria","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1546",77979,77979,"Port Lavaca","Calhoun","Med","Low","High","No","Lunch Plus","High","Low","Low","No","Med","No","High","No","High",0,1,NA
+"1547",77982,77982,"Port O Connor","Calhoun","Med","Low","High","No","No Meals","Low","None","None","No",NA,"No","Low",NA,"Low",0,NA,NA
+"1548",77983,77983,"Seadrift","Calhoun","Med","Low","High","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"1555",77994,77994,"Westhoff","De Witt","Med","Med","Med","No","No Meals","Low","None","None",NA,NA,"No","None",NA,"Low",0,NA,NA
+"1556",77995,77995,"Yoakum","Lavaca","Med","Med","Med","Yes","Lunch","Low","None","Low","Yes","Med","No","High",NA,"High",0,NA,NA
+"1559",78002,78002,"Atascosa","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1561",78003,78003,"Bandera","Bandera","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","High","Yes","High",NA,NA,0,NA,NA
+"1568",78009,78009,"Castroville","Medina","Med","Med","Med","No","No Meals","Low","None","None","Yes","Med","Yes","Low",NA,"High",0,1,NA
+"1569",78010,78010,"Center Point","Kerr","Low","Low","High","No","Lunch Plus","High","None","Low","No","High","No","Low",NA,"High",0,1,NA
+"1570",78011,78011,"Charlotte","Atascosa","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"High",0,1,NA
+"1573",78013,78013,"Comfort","Kendall","Low","Low","Low","Yes","Lunch Plus","High","None","Low","No","High","Yes","Low",NA,"High",0,1,NA
+"1574",78014,78014,"Cotulla","La Salle","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,NA,4.56756756756757,NA,1
+"1576",78016,78016,"Devine","Medina","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"Low",0,NA,NA
+"1577",78017,78017,"Dilley","Frio","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,"High",0,NA,NA
+"1578",78019,78019,"Encinal","La Salle","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"1584",78025,78025,"Ingram","Kerr","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","High","No","Low","No","Low",0,NA,NA
+"1585",78026,78026,"Jourdanton","Atascosa","Med","Med","High","No","Lunch Plus","High","None","Low","No","Low","Yes","Low",NA,"High",0,1,NA
+"1587",78028,78028,"Kerrville","Kerr","Low","Med","Low","No","Lunch Plus","High","High","Low","No","Med","Yes","High","No","High",0,1,1
+"1589",78039,78039,"La Coste","Medina","Med","Med","Med","No","No Meals","Low","None","None","Yes","High","No","Low",NA,"Low",0,NA,NA
+"1591",78040,78040,"Laredo","Webb","High","High","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No",NA,0,NA,NA
+"1592",78041,78041,"Laredo","Webb","High","High","Med","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,0,NA,NA
+"1594",78043,78043,"Laredo","Webb","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"1596",78045,78045,"Laredo","Webb","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"1597",78046,78046,"Laredo","Webb","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"1599",78052,78052,"Lytle","Atascosa","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","Yes","High",NA,"Low",0,NA,NA
+"1600",78055,78055,"Medina","Bandera","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"1603",78058,78058,"Mountain Home","Kerr","Low","Med","Med","No","No Meals","Low","None","None",NA,NA,"No","None",NA,"Low",0,NA,NA
+"1604",78059,78059,"Natalia","Medina","Med","Med","High","Yes","Lunch Plus","High","High","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"1606",78061,78061,"Pearsall","Frio","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Low","Yes","High","No","High",10.2272727272727,1,NA
+"1607",78063,78063,"Pipe Creek","Bandera","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","High","No","Low","No",NA,0,NA,NA
+"1608",78064,78064,"Pleasanton","Atascosa","Med","Med","Med","Yes","Lunch Plus","High","None","Low","No","High","No","High",NA,NA,0,NA,NA
+"1609",78065,78065,"Poteet","Atascosa","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"High",0,1,NA
+"1611",78067,78067,"San Ygnacio","Zapata","Med","High","High","No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,"Low",0,NA,NA
+"1612",78069,78069,"Somerset","Bexar","High","High","Med","No","No Meals","Low","None","None","No","Med","Yes","Low","No","Low",0,NA,NA
+"1614",78071,78071,"Three Rivers","Live Oak","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","Yes","Low","No",NA,0,NA,NA
+"1616",78073,78073,"Von Ormy","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,1
+"1618",78076,78076,"Zapata","Zapata","Med","High","High","Yes","Lunch Plus","High","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"1620",78102,78102,"Beeville","Bee","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"1624",78109,78109,"Converse","Bexar","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0.705882352941177,NA,1
+"1627",78114,78114,"Floresville","Wilson","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"1631",78118,78118,"Karnes City","Karnes","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"1632",78119,78119,"Kenedy","Karnes","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"1635",78123,78123,"Mc Queeney","Guadalupe","Med","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1641",78132,78132,"New Braunfels","Comal","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Low","Yes","Low","No",NA,18.1025641025641,NA,1
+"1642",78133,78133,"Canyon Lake","Comal","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","High","Yes","High",NA,NA,11.8571428571429,NA,NA
+"1643",78140,78140,"Nixon","Gonzales","Low","Med","Med","Yes","Lunch Plus","High","Low","Low","No","Low","Yes","Low",NA,"High",0,NA,NA
+"1644",78141,78141,"Nordheim","De Witt","Med","Med","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,NA
+"1648",78145,78145,"Pawnee","Bee","Low",NA,NA,"No","Lunch Plus","Low","None","Low",NA,NA,"No","None",NA,NA,0,NA,NA
+"1649",78146,78146,"Pettus","Bee","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","None","No",NA,0,NA,NA
+"1651",78148,78148,"Universal City","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"1653",78151,78151,"Runge","Karnes","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,NA,0,NA,NA
+"1658",78155,78155,"Seguin","Guadalupe","Med","Low","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","High",0,1,NA
+"1660",78160,78160,"Stockdale","Wilson","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,NA,0,NA,NA
+"1664",78164,78164,"Yorktown","De Witt","Med","Med","Med","No","No Meals","Low","None","None","Yes","Med","Yes","Low","No","Low",0,NA,NA
+"1665",78201,78201,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Low","Yes","High","Yes","Low",38.2378917378917,NA,12
+"1666",78202,78202,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","Yes","Low",67.3883883883883,NA,10
+"1667",78203,78203,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","Low","Yes","Low",30.5641025641026,NA,1
+"1669",78204,78204,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","Yes","Low",0,NA,4
+"1671",78205,78205,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No",NA,"No","High","Yes","Low",19.9604604604605,NA,3
+"1681",78207,78207,"San Antonio","Bexar","High","Med","Low","Yes","Lunch Plus","Low","High","High","Yes","Med","No","High","Yes",NA,73.5677685604156,4,31
+"1682",78208,78208,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low","Yes","Low",22.5,NA,4
+"1684",78210,78210,"San Antonio","Bexar","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","Yes","High",37.8148148148148,NA,14
+"1685",78211,78211,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",12.2417473884141,NA,9
+"1686",78212,78212,"San Antonio","Bexar","Med","Med","Low","Yes","Lunch Plus","High","High","High","No","Low","Yes","High","No",NA,38.8532135076253,NA,6
+"1687",78213,78213,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",10.3753561253561,NA,2
+"1688",78214,78214,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",54.6467236467237,NA,5
+"1691",78216,78216,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,1
+"1695",78217,78284,"San Antonio","Bexar","High","High","Med","No","No Meals","Low","None","None","No","Med","No","None","No","Low",0,NA,NA
+"1696",78217,78217,"San Antonio","Bexar","High","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,16.4025435692103,NA,2
+"1698",78218,78218,"San Antonio","Bexar","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",12.9411206077873,NA,7
+"1699",78219,78219,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",34.9907331573999,NA,5
+"1700",78220,78220,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",88.6241204574538,NA,10
+"1701",78221,78221,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",21.2542087542088,NA,8
+"1702",78222,78222,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",15.4511784511784,NA,1
+"1703",78223,78223,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",69.0629629629629,NA,7
+"1704",78224,78224,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Low","Yes","High","No","Low",0,NA,6
+"1705",78225,78225,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"1706",78226,78226,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","High","No","Low","No","Low",0,NA,1
+"1707",78227,78227,"San Antonio","Bexar","High","High","Low","Yes","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,10.8706509539843,7,6
+"1709",78228,78228,"San Antonio","Bexar",NA,"Med","Low","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","High",19.6027182914438,1,9
+"1710",78229,78229,"San Antonio","Bexar","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","Yes","High","No","High",8.5462962962963,1,NA
+"1711",78230,78230,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,2
+"1717",78233,78233,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,1
+"1720",78235,78235,"San Antonio","Bexar","High","High","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,1
+"1722",78237,78237,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","No","Low",23.7434343434344,NA,10
+"1724",78238,78238,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",59.3456790123456,NA,4
+"1725",78239,78239,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",29.462962962963,NA,3
+"1726",78240,78240,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",9.44444444444445,NA,2
+"1727",78242,78242,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",37.4871794871795,NA,1
+"1729",78244,78244,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",19.1590909090909,NA,1
+"1730",78245,78245,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",19.8058823529412,NA,2
+"1735",78250,78250,"San Antonio","Bexar","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"1736",78251,78251,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",19.6120607787275,NA,3
+"1737",78252,78252,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","High","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"1747",78263,78263,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low",NA,"Med","No","Low",NA,"Low",0,NA,NA
+"1748",78264,78264,"San Antonio","Bexar","High","High","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low","No","Low",35.1666666666666,NA,NA
+"1749",78266,78266,"San Antonio","Comal","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"1750",78330,78330,"Agua Dulce","Nueces","Med","Med","Low","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"1751",78332,78332,"Alice","Jim Wells","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Low","No","High",NA,"Low",0,NA,NA
+"1754",78336,78336,"Aransas Pass","San Patricio","Med","Low","High","No","Lunch Plus","High","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"1756",78339,78339,"Banquete","Nueces","Med","Med","Low","No","No Meals","High","Low","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"1758",78341,78341,"Benavides","Duval","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,NA,0,NA,NA
+"1759",78342,78342,"Ben Bolt","Jim Wells","Med","Med","High","No","Lunch Plus","Low","None","Low",NA,NA,"No","None",NA,"High",0,NA,NA
+"1760",78343,78343,"Bishop","Nueces","Med","Med","Low","No","No Meals","Low","None","None","Yes","Med","No","Low","No","Low",0,NA,NA
+"1761",78344,78344,"Bruni","Webb","High","High","Med","No","No Meals","Low","None","None",NA,NA,"No","None",NA,"Low",0,NA,NA
+"1763",78351,78351,"Driscoll","Nueces","Med","Med","Low","No","No Meals","Low","Low","None","No","Low","No","Low","No","Low",0,NA,NA
+"1766",78355,78355,"Falfurrias","Brooks","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"1767",78357,78357,"Freer","Duval","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,NA,0,NA,NA
+"1768",78358,78358,"Fulton","Aransas","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low",NA,NA,0,NA,NA
+"1769",78359,78359,"Gregory","San Patricio","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"1770",78361,78361,"Hebbronville","Jim Hogg","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"High",0,NA,NA
+"1772",78362,78362,"Ingleside","San Patricio","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"1774",78363,78363,"Kingsville","Kleberg","Low","Low","Med","No","Lunch Plus","High","High","Low","Yes","Med","No","High","No","High",0,1,NA
+"1775",78368,78368,"Mathis","San Patricio","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,NA,NA
+"1777",78370,78370,"Odem","San Patricio","Med","Med","Med","No","Lunch Plus","High","Low","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"1778",78371,78371,"Oilton","Webb","High","High","Med","No","No Meals","Low","None","None","No","Low","No","None",NA,"Low",0,NA,NA
+"1779",78372,78372,"Orange Grove","Jim Wells","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,"Low",0,NA,NA
+"1782",78375,78375,"Premont","Jim Wells","Med","Med","High","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1783",78376,78376,"Realitos","Duval","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","None",NA,NA,0,NA,NA
+"1784",78377,78377,"Refugio","Refugio","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High",NA,NA,0,NA,NA
+"1785",78379,78379,"Riviera","Kleberg","Low","Low","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"1786",78380,78380,"Robstown","Nueces","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,NA,NA
+"1788",78382,78382,"Rockport","Aransas","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"1790",78384,78384,"San Diego","Duval","Low",NA,NA,"No","Lunch","Low","None","Low","No","Low","Yes","Low",NA,NA,0,NA,NA
+"1792",78387,78387,"Sinton","San Patricio","Med","Low","Med","Yes","Lunch Plus","Low","None","Low","No","Low","No","High",NA,"High",0,NA,NA
+"1793",78389,78389,"Skidmore","Bee","Low",NA,NA,"No","Lunch","Low","None","Low",NA,"Low","No","Low",NA,NA,0,NA,NA
+"1794",78390,78390,"Taft","San Patricio","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low","No","Low",0,NA,NA
+"1796",78393,78393,"Woodsboro","Refugio","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"1797",78401,78401,"Corpus Christi","Nueces","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","High","No","High","Yes","Low",0,NA,5
+"1800",78404,78404,"Corpus Christi","Nueces","Med","Med","Low","No","Lunch","Low","None","Low","No","Med","No","High","No","Low",0,NA,2
+"1803",78405,78405,"Corpus Christi","Nueces","Med","Med","Low","Yes","Lunch Plus","Low","None","Low","Yes","Med","No","High","No","Low",0,NA,2
+"1807",78408,78408,"Corpus Christi","Nueces","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,3
+"1808",78409,78409,"Corpus Christi","Nueces","Med","Med","Low","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"1812",78411,78411,"Corpus Christi","Nueces","Med","Med","Low","Yes","Lunch","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,2
+"1815",78412,78412,"Corpus Christi","Nueces",NA,"Low","Low","No","Lunch","Low","None","Low","No","High","No","High","No","High",0,NA,3
+"1817",78413,78413,"Corpus Christi","Nueces","Med","Med","Low","No","No Meals","Low","None","None","No","Med","Yes","High","No","Low",0,NA,NA
+"1822",78415,78415,"Corpus Christi","Nueces","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,3
+"1823",78416,78416,"Corpus Christi","Nueces","Med","Med","Med","Yes","Lunch Plus","High","None","High","Yes","Med","No","High","No","High",0,NA,4
+"1824",78417,78417,"Corpus Christi","Nueces","Med","Med","Low","No","No Meals","Low","None","None","Yes","Med","No","Low","No","Low",0,NA,NA
+"1828",78501,78501,"Mcallen","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",28.5273752012883,NA,52
+"1831",78503,78503,"Mcallen","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","Yes","High","No","Low",0,NA,8
+"1832",78504,78504,"Mcallen","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,16
+"1833",78516,78516,"Alamo","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High",NA,"Low",34.2212781954887,NA,16
+"1834",78520,78520,"Brownsville","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",30.5186026189132,NA,42
+"1837",78521,78521,"Brownsville","Cameron",NA,"Med","Low","Yes","Lunch Plus","High","Low","High","Yes","Med","Yes","High","No","High",27.8901007575423,NA,39
+"1838",78526,78526,"Brownsville","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","Yes","High","No","Low",35.3737779696859,NA,6
+"1839",78535,78535,"Combes","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","High","No","Low",NA,"Low",0,NA,1
+"1841",78537,78537,"Donna","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High",NA,"Low",30.9515818531837,NA,2
+"1842",78538,78538,"Edcouch","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","High","Low","No","Low","No","High",NA,"High",30.608695652174,NA,3
+"1843",78539,78539,"Edinburg","Hidalgo","Med","Med","Low","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","High",31.1105433394414,NA,6
+"1844",78541,78541,"Edinburg","Hidalgo","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",150.541666666667,NA,1
+"1845",78541,78540,"Edinburg","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","None","No","Low",0,NA,NA
+"1846",78542,78542,"Edinburg","Hidalgo","Low","High","Low","No","Lunch Plus","Low","None","High","No","Low","No","High","No",NA,59.0052667901638,NA,3
+"1847",78543,78543,"Elsa","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","Yes","High",NA,"Low",23.8111111111111,NA,NA
+"1849",78548,78548,"Grulla","Starr","High","Med","High","No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"Low",0,NA,2
+"1850",78549,78549,"Hargill","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"Low",28.3333333333333,NA,NA
+"1853",78550,78550,"Harlingen","Cameron","Med","Med","Med","Yes","Lunch Plus","High","High","High","No","Med","No","High","No",NA,9.42713675213675,NA,21
+"1854",78552,78552,"Harlingen","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",8.33333333333333,NA,6
+"1855",78557,78557,"Hidalgo","Hidalgo","Med","Med","Med","Yes","Lunch Plus","Low","None","High","Yes","Low","No","High","No",NA,0,NA,NA
+"1857",78559,78559,"La Feria","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","High",NA,"Low",0,NA,1
+"1858",78560,78560,"La Joya","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Low","No","High",NA,"Low",0,NA,NA
+"1859",78561,78561,"Lasara","Willacy","Low","Med","Med","Yes","Lunch Plus","Low","None","Low","No","High","No","Low",NA,"High",6.73444976076555,NA,NA
+"1860",78562,78562,"La Villa","Hidalgo","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"High",33.8903743315508,1,NA
+"1861",78563,78563,"Linn","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","Low",NA,NA,"No","None",NA,"Low",0,NA,NA
+"1864",78566,78566,"Los Fresnos","Cameron","Med","Med","Med","No","Lunch Plus","High","Low","Low","No","Med","No","High","No","Low",21.7217064400131,NA,1
+"1866",78569,78569,"Lyford","Willacy","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"High",16.7857142857143,NA,1
+"1867",78570,78570,"Mercedes","Hidalgo","High","High","Low","No","Lunch Plus","Low","None","High","No","Med","No","High",NA,NA,37.6055555555556,7,4
+"1868",78572,78572,"Mission","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",21.3794871794871,NA,5
+"1869",78573,78573,"Mission","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,"Low",32.2142857142857,NA,2
+"1870",78574,78574,"Mission","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",36.5217391304348,NA,2
+"1871",78575,78575,"Olmito","Cameron","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,1
+"1872",78576,78576,"Penitas","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High",NA,"Low",0,NA,NA
+"1873",78577,78577,"Pharr","Hidalgo","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",34.8637000254648,NA,27
+"1874",78578,78578,"Port Isabel","Cameron","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,16.9130434782609,1,2
+"1875",78579,78579,"Progreso","Hidalgo","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Low","No","High",NA,"High",44.7588164251209,NA,1
+"1876",78580,78580,"Raymondville","Willacy","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","High",NA,"Low",31.5217391304348,NA,3
+"1877",78582,78582,"Rio Grande City","Starr","High","Med","High","No","Lunch Plus","High","None","High","No","Med","Yes","High","No","Low",3.41276058667363,NA,17
+"1878",78582,78547,"Garciasville","Starr","High","Med","High","No","No Meals","Low","None","None","No","Med","No","Low","No","Low",0,NA,NA
+"1879",78583,78583,"Rio Hondo","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,"High",0,NA,NA
+"1880",78584,78584,"Roma","Starr","High","Med","High","Yes","Lunch Plus","High","None","High","Yes","Med","No","High",NA,NA,0,NA,NA
+"1882",78586,78586,"San Benito","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,2
+"1884",78588,78588,"San Isidro","Starr","High","Med","High","No","Lunch Plus","Low","None","Low","No",NA,"No","Low",NA,"Low",45.951871657754,NA,NA
+"1885",78589,78589,"San Juan","Hidalgo",NA,"Med","Low","No","Lunch Plus","Low","High","High","No","Low","No","High",NA,NA,32.5584475021546,NA,20
+"1886",78590,78590,"San Perlita","Willacy","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","None",NA,"Low",0,NA,NA
+"1888",78592,78592,"Santa Maria","Cameron","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","High","No","None",NA,"High",0,NA,NA
+"1889",78593,78593,"Santa Rosa","Cameron","Med","Med","High","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"High",0,NA,NA
+"1891",78595,78595,"Sullivan City","Hidalgo","Med","Med","Med","No","No Meals","Low","None","None","No","Low","No","High",NA,"Low",0,NA,NA
+"1892",78596,78596,"Weslaco","Hidalgo","Med","Med","Med","No","Lunch Plus","High","None","High","No","Med","No","High",NA,"Low",30.6103535353535,NA,6
+"1896",78602,78602,"Bastrop","Bastrop","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"1897",78605,78605,"Bertram","Burnet","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"1903",78611,78611,"Burnet","Burnet","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"1904",78612,78612,"Cedar Creek","Bastrop","Med","Med","High","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,NA
+"1910",78617,78617,"Del Valle","Travis","Low","High","Med","No","Lunch Plus","High","None","Low","No","Low","No","High","No","Low",0,NA,3
+"1912",78619,78619,"Driftwood","Hays","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None","No",NA,0,NA,NA
+"1914",78621,78621,"Elgin","Bastrop","Med","Med","Med","Yes","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"1917",78624,78624,"Fredericksburg","Gillespie","Med","Med","High","Yes","Lunch","Low","None","Low","No","High","No","High",NA,"High",0,NA,NA
+"1920",78626,78626,"Georgetown","Williamson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","High","No","Low",0,NA,7
+"1925",78629,78629,"Gonzales","Gonzales","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","Yes","High","No","High",0,1,NA
+"1933",78639,78639,"Kingsland","Llano","Low",NA,NA,"No","Lunch","Low","None","Low","No","High","No","Low",NA,NA,0,NA,NA
+"1934",78640,78640,"Kyle","Hays","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"1938",78643,78643,"Llano","Llano","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,NA,0,NA,NA
+"1939",78644,78644,"Lockhart","Caldwell",NA,NA,NA,"No","Lunch Plus","Low","None","High","No","Med","No","High",NA,"Low",0,NA,8
+"1941",78648,78648,"Luling","Caldwell",NA,NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,1,NA
+"1942",78650,78650,"Mc Dade","Bastrop","Low","Low","High","No","Lunch Plus","Low","None","Low","No","Low","No","None",NA,"Med",0,1,NA
+"1943",78652,78652,"Manchaca","Travis","Low","High","Med","No","No Meals","Low","None","None","Yes","Med","No","Low","No","Low",0,NA,NA
+"1944",78653,78653,"Manor","Travis","Low","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"1945",78654,78654,"Marble Falls","Burnet","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,2,NA
+"1952",78661,78661,"Prairie Lea","Caldwell",NA,NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"1953",78662,78662,"Red Rock","Bastrop","Med","Med","High","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"1960",78666,78666,"San Marcos","Hays","Low",NA,NA,"No","Lunch Plus","Low","High","High","Yes","High","Yes","High","No",NA,0,NA,NA
+"1980",78702,78702,"Austin","Travis",NA,"Med","Low","No","Lunch Plus","Low","None","High","No","Med","No","High","No","High",62.74,NA,5
+"1983",78704,78704,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","High","Yes","High","No","Low",0,NA,2
+"1994",78721,78721,"Austin","Travis","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","Low","No","High",0,NA,1
+"1995",78722,78722,"Austin","Travis","Low","High","Med","No","No Meals","Low","None","None","No","Med","No","High","No","Low",0,NA,NA
+"1997",78723,78723,"Austin","Travis","Low","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,4
+"1998",78724,78724,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,3
+"1999",78725,78725,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low","No","Low",0,NA,1
+"2001",78727,78727,"Austin","Travis","Low","High","Med","No","No Meals","Low","None","None","No","Med","No","High","No","Low",0,NA,NA
+"2002",78728,78728,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"2016",78741,78741,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","Yes","High","Yes","High","Yes","Low",0,NA,3
+"2019",78744,78744,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,7
+"2021",78745,78745,"Austin","Travis","Med","High","Low","No","Lunch Plus","High","High","High","No","Med","Yes","High","No",NA,0,7,4
+"2026",78748,78748,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,2
+"2030",78751,78751,"Austin","Travis","Low","High","Med","No","No Meals","Low","None","None","Yes","High","No","High","Yes","Low",0,NA,1
+"2032",78752,78752,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","High","No","High","Yes","Low",0,NA,5
+"2033",78753,78753,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,5
+"2035",78754,78754,"Austin","Travis","Low","High","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,3
+"2036",78756,78756,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","Low","No","Low","No","High","No","Low",0,NA,1
+"2038",78757,78757,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","Low","No","High","Yes","High","No","Low",0,NA,2
+"2041",78758,78758,"Austin","Travis","Low","High","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,1,4
+"2045",78801,78801,"Uvalde","Uvalde","Low",NA,NA,"No","Lunch Plus","Low","None","High","No","High","No","High","No",NA,0,NA,1
+"2047",78827,78827,"Asherton","Dimmit","Med","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"2048",78828,78828,"Barksdale","Edwards","Low",NA,NA,"No","No Meals","High","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"2049",78829,78829,"Batesville","Zavala","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"Low",0,NA,NA
+"2050",78830,78830,"Big Wells","Dimmit","Med","Low","Med","No","Lunch Plus","Low","None","Low","Yes","High","No","Low",NA,"Low",0,NA,NA
+"2051",78832,78832,"Brackettville","Kinney","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","Low","No","High",0,1,NA
+"2052",78833,78833,"Camp Wood","Real","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"2053",78834,78834,"Carrizo Springs","Dimmit","Med","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High",NA,NA,0,NA,NA
+"2057",78839,78839,"Crystal City","Zavala","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,1,1
+"2060",78840,78840,"Del Rio","Val Verde","High","Low","Med","No","Lunch Plus","Low","High","Low","No","Med","No","High","No",NA,0,NA,1
+"2063",78850,78850,"D Hanis","Medina","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2066",78852,78852,"Eagle Pass","Maverick","Med","Med","Med","Yes","Lunch Plus","High","Low","High","No","Low","No","High","No",NA,22.7272727272727,NA,NA
+"2068",78861,78861,"Hondo","Medina","Low","Low","Med","No","Lunch Plus","High","Low","Low","No","Med","No","High",NA,"High",6.15384615384615,NA,1
+"2071",78872,78872,"La Pryor","Zavala","Low","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","Low",NA,"High",6.81818181818182,1,1
+"2072",78873,78873,"Leakey","Real","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,NA,0,NA,1
+"2073",78877,78877,"Quemado","Maverick","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2075",78880,78880,"Rocksprings","Edwards","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","Low",NA,NA,0,NA,NA
+"2076",78881,78881,"Sabinal","Uvalde","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,NA,0,NA,NA
+"2084",78934,78934,"Columbus","Colorado","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Low","No","Low","No",NA,0,NA,NA
+"2088",78941,78941,"Flatonia","Fayette","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"2090",78942,78942,"Giddings","Lee","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"2099",78950,78950,"New Ulm","Austin","Med","Med","Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"2105",78957,78957,"Smithville","Bastrop","Med","Low","High","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","High",0,NA,NA
+"2106",78959,78959,"Waelder","Gonzales","Low","Med","High","Yes","Lunch Plus","High","Low","Low","No","Low","No","Low","No","High",0,1,NA
+"2107",78962,78962,"Weimar","Colorado","Low",NA,NA,"No","Lunch","Low","None","Low","No","Low","Yes","Low","No",NA,0,NA,NA
+"2109",79001,79001,"Adrian","Oldham","Low",NA,NA,"No","No Meals","Low","None","None","No",NA,"No","None",NA,NA,0,NA,NA
+"2111",79005,79005,"Booker","Lipscomb","Low",NA,"Med","No","Lunch","High","High","Low","No","Med","No","Low","No","High",0,NA,NA
+"2113",79007,79007,"Borger","Hutchinson","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","Yes","High",NA,"Low",0,NA,NA
+"2114",79009,79009,"Bovina","Parmer","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"2115",79010,79010,"Boys Ranch","Oldham","Low",NA,NA,"No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"2118",79013,79013,"Cactus","Moore","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"2122",79018,79018,"Channing","Hartley","Low",NA,NA,"No","No Meals","Low","None","None",NA,"Med","No","None",NA,NA,0,NA,NA
+"2124",79021,79021,"Cotton Center","Hale","Med","Med","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,NA
+"2125",79022,79022,"Dalhart","Dallam","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","High",NA,"High",0,1,NA
+"2126",79024,79024,"Darrouzett","Lipscomb","Low",NA,"Med","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"2128",79027,79027,"Dimmitt","Castro","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"2129",79029,79029,"Dumas","Moore","Low","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","High",0,NA,NA
+"2130",79031,79031,"Earth","Lamb","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2133",79034,79034,"Follett","Lipscomb","Low",NA,"Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2134",79035,79035,"Friona","Parmer","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"2135",79036,79036,"Fritch","Hutchinson","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2138",79041,79041,"Hale Center","Hale","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"2140",79043,79043,"Hart","Castro","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","High",0,1,NA
+"2141",79044,79044,"Hartley","Hartley","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","None",NA,NA,0,NA,NA
+"2142",79045,79045,"Hereford","Deaf Smith","Med","Med","Med","No","Lunch Plus","High","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"2143",79046,79046,"Higgins","Lipscomb","Low",NA,"Med","No","No Meals","Low","None","None","No","High","No","Low",NA,"Low",0,NA,NA
+"2145",79052,79052,"Kress","Swisher","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","None",NA,"Low",0,NA,NA
+"2146",79053,79053,"Lazbuddie","Parmer","Low","Low","Med","No","No Meals","Low","None","None",NA,NA,"No","None",NA,"Low",0,NA,NA
+"2147",79054,79054,"Lefors","Gray","Med","Med","Med","No","No Meals","High","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"2154",79062,79062,"Morse","Hansford","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","None",NA,NA,0,NA,NA
+"2156",79064,79064,"Olton","Lamb","Low","Med","Med","No","Lunch Plus","High","Low","Low","No","High","No","Low",NA,"High",0,NA,NA
+"2157",79065,79065,"Pampa","Gray","Med","Med","Med","Yes","Lunch Plus","High","None","Low","No","Med","Yes","High",NA,NA,0,NA,NA
+"2160",79070,79070,"Perryton","Ochiltree","Med","Med","High","No","Lunch Plus","High","None","Low","No","Med","No","High",NA,"High",0,1,NA
+"2161",79072,79073,"Plainview","Hale","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","None","No","Low",0,NA,NA
+"2162",79072,79072,"Plainview","Hale","Med","Med","High","No","Lunch Plus","High","None","Low","No","Med","No","High","No","High",0,1,NA
+"2165",79079,79079,"Shamrock","Wheeler","Low",NA,NA,"No","Lunch","High","None","Low","No","Low","No","Low","No",NA,0,NA,NA
+"2166",79080,79080,"Skellytown","Carson","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","None",NA,NA,0,NA,NA
+"2167",79081,79081,"Spearman","Hansford","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","Low","No",NA,0,NA,NA
+"2170",79084,79084,"Stratford","Sherman","Low","Med","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"2172",79086,79086,"Sunray","Moore","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"2173",79087,79087,"Texline","Dallam","Low","Med","Med","No","No Meals","Low","None","None","No","High","No","Low","No","Low",0,NA,NA
+"2174",79088,79088,"Tulia","Swisher","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"High",0,1,NA
+"2179",79095,79095,"Wellington","Collingsworth","Low",NA,NA,"No","Lunch","High","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"2180",79096,79096,"Wheeler","Wheeler","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low","No",NA,0,NA,NA
+"2181",79097,79097,"White Deer","Carson","Low",NA,NA,"No","No Meals","Low","None","None",NA,"Low","No","Low","No",NA,0,NA,NA
+"2187",79102,79102,"Amarillo","Potter","Med","Med","Med","Yes","Lunch","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"2188",79103,79103,"Amarillo","Potter","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High",NA,"Low",0,NA,1
+"2192",79104,79104,"Amarillo","Potter","Med","Med","Med","Yes","Lunch","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"2194",79106,79106,"Amarillo","Potter","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"2196",79107,79107,"Amarillo","Potter","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,2
+"2198",79108,79108,"Amarillo","Potter","Low","Low","Med","No","Lunch Plus","High","None","Low","No","Med","No","Low","No","High",0,NA,NA
+"2202",79110,79110,"Amarillo","Randall","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"2204",79118,79118,"Amarillo","Randall","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"2210",79201,79201,"Childress","Childress","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"2211",79220,79220,"Afton","Dickens","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Med","No","None",NA,NA,0,NA,NA
+"2212",79225,79225,"Chillicothe","Hardeman","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low",NA,NA,0,NA,NA
+"2214",79227,79227,"Crowell","Foard",NA,"Low","Med","No","Lunch","High","Low","Low","No","Low","No","Low",NA,"Low",0,1,NA
+"2220",79235,79235,"Floydada","Floyd","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"2222",79237,79237,"Hedley","Donley","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Low","No","None",NA,NA,0,NA,NA
+"2226",79241,79241,"Lockney","Floyd","Med","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"2228",79244,79244,"Matador","Motley","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Low","No","Low",NA,NA,0,NA,NA
+"2229",79245,79245,"Memphis","Hall","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"High",0,1,NA
+"2232",79248,79248,"Paducah","Cottle","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"2233",79250,79250,"Petersburg","Hale","Low","Low","Med","No","Lunch","High","None","Low","No","Med","No","Low","No","High",0,1,NA
+"2235",79252,79252,"Quanah","Hardeman","Low",NA,NA,"No","No Meals","Low","None","None","Yes","Med","No","Low","No",NA,0,NA,NA
+"2238",79257,79257,"Silverton","Briscoe","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"2241",79261,79261,"Turkey","Hall","Low","Low","Med","No","Lunch","High","None","Low","No","Med","No","Low","No","Med",0,1,NA
+"2242",79311,79311,"Abernathy","Hale","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,1
+"2243",79312,79312,"Amherst","Lamb","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2244",79313,79313,"Anton","Hockley","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","None",NA,NA,0,NA,1
+"2246",79316,79316,"Brownfield","Terry","Med","Med","Low","Yes","Lunch Plus","Low","None","Low","No","Low","No","High",NA,"High",0,1,2
+"2247",79322,79322,"Crosbyton","Crosby","Low","Med","High","No","Lunch","High","High","Low","No","Med","No","Low","No","High",0,1,NA
+"2250",79325,79325,"Farwell","Parmer","Low","Low","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,NA
+"2254",79331,79331,"Lamesa","Dawson","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,NA,NA
+"2256",79336,79336,"Levelland","Hockley","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"2257",79339,79339,"Littlefield","Lamb","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"2258",79342,79342,"Loop","Gaines","Low","Med","Med","No","No Meals","Low","None","None",NA,"Med","No","None",NA,"Low",0,NA,NA
+"2259",79343,79343,"Lorenzo","Crosby","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,1
+"2261",79345,79345,"Meadow","Terry","Low","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","None",NA,"High",0,NA,NA
+"2262",79346,79346,"Morton","Cochran","Low","Low","Low","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low","No","High",0,NA,NA
+"2263",79347,79347,"Muleshoe","Bailey","Med",NA,"High","Yes","Lunch Plus","High","None","Low","Yes","Med","No","High",NA,"High",0,NA,NA
+"2264",79350,79350,"New Deal","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","Low",NA,"Low","No","Low",NA,"Low",0,NA,1
+"2265",79351,79351,"Odonnell","Lynn","Low","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low","No","High",0,1,NA
+"2266",79353,79353,"Pep","Hockley","Low",NA,NA,"No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"2267",79355,79355,"Plains","Yoakum","Med","Low","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2268",79356,79356,"Post","Garza","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,1,NA
+"2269",79357,79357,"Ralls","Crosby","Med","Low","Med","No","Lunch","High","Low","Low","Yes","Med","No","Low",NA,"High",0,NA,NA
+"2271",79359,79359,"Seagraves","Gaines","Low","Med","Med","No","Lunch Plus","High","Low","Low","No","Med","No","Low",NA,"High",0,NA,NA
+"2272",79360,79360,"Seminole","Gaines","Low","Med","Med","No","Lunch","Low","Low","Low","No","Low","No","High",NA,"High",0,NA,NA
+"2274",79364,79364,"Slaton","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"Low",0,NA,1
+"2276",79367,79367,"Smyer","Hockley","Low",NA,NA,"No","Lunch Plus","Low","None","Low","Yes","Med","No","None","No",NA,0,NA,1
+"2279",79371,79371,"Sudan","Lamb","Low","Low","Low","Yes","Lunch","Low","None","Low","No","Med","No","Low",NA,"Med",0,NA,NA
+"2281",79373,79373,"Tahoka","Lynn","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Low",0,NA,1
+"2284",79378,79378,"Wellman","Terry","Low","Med","Med","No","No Meals","Low","None","None","No","Med","No","None",NA,"Low",0,NA,NA
+"2285",79379,79379,"Whiteface","Cochran","Low","Med","High","No","No Meals","High","None","None","No","Med","No","None","No","Med",0,1,NA
+"2287",79381,79381,"Wilson","Lynn","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","None",NA,"Low",0,NA,1
+"2292",79401,79401,"Lubbock","Lubbock","Med","Med","Med","Yes","Lunch","Low","None","Low","Yes","High","No","High","No","Low",0,NA,1
+"2294",79403,79403,"Lubbock","Lubbock","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","High",0,1,7
+"2295",79404,79404,"Lubbock","Lubbock","High","Med","Med","Yes","Lunch Plus","High","High","High","No","Med","No","High","No",NA,0,NA,4
+"2298",79407,79407,"Lubbock","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No","Low",0,NA,NA
+"2300",79410,79410,"Lubbock","Lubbock","Med","Med","Med","No","Lunch","Low","None","Low","Yes","High","No","High",NA,"Low",0,NA,1
+"2301",79411,79411,"Lubbock","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","High","No","Low","No","Low",0,NA,1
+"2303",79412,79412,"Lubbock","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,1
+"2305",79413,79413,"Lubbock","Lubbock","Med","Med","Low","No","Lunch Plus","Low","None","Low","No","Med","No","High","No",NA,0,NA,5
+"2307",79414,79414,"Lubbock","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"2308",79415,79415,"Lubbock","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","Yes","High","No","Low",0,NA,3
+"2311",79416,79416,"Lubbock","Lubbock","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","High","No","Low",0,NA,NA
+"2316",79501,79501,"Anson","Jones","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","High",NA,"High",0,1,NA
+"2317",79502,79502,"Aspermont","Stonewall","Low",NA,NA,"No","Lunch","Low","None","Low","No","Med","No","Low",NA,NA,0,1,NA
+"2318",79503,79503,"Avoca","Jones","Low","Low","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,NA
+"2319",79504,79504,"Baird","Callahan","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","Low",NA,NA,0,NA,NA
+"2320",79505,79505,"Benjamin","Knox","Low","Med","Med","No","No Meals","Low","None","None","No","High","No","None",NA,"Low",0,NA,NA
+"2323",79510,79510,"Clyde","Callahan","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","High","No",NA,0,NA,NA
+"2325",79512,79512,"Colorado City","Mitchell","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"2329",79520,79520,"Hamlin","Jones","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low",NA,"Med",0,1,NA
+"2330",79521,79521,"Haskell","Haskell","Low","Med","Med","No","Lunch","Low","None","Low","No","Med","No","Low",NA,"High",0,1,NA
+"2335",79528,79528,"Jayton","Kent","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low",NA,NA,0,NA,NA
+"2336",79529,79529,"Knox City","Knox","Low","Low","Med","Yes","Lunch Plus","High","Low","Low","No","Med","No","Low",NA,"High",0,1,NA
+"2338",79532,79532,"Loraine","Mitchell","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","None","No",NA,0,NA,NA
+"2339",79533,79533,"Lueders","Jones","Low","Low","Med","No","No Meals","Low","None","None","Yes","Med","No","None",NA,"Low",0,NA,NA
+"2342",79536,79536,"Merkel","Taylor","High","Med","Med","No","No Meals","High","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2345",79539,79539,"O Brien","Haskell","Low","Med","Med","No","No Meals","Low","None","None","Yes","High","No","None",NA,"Low",0,NA,NA
+"2348",79543,79543,"Roby","Fisher","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"2351",79546,79546,"Rotan","Fisher","Low",NA,NA,"No","No Meals","Low","None","None","No","Low","No","Low",NA,NA,0,NA,NA
+"2352",79547,79547,"Rule","Haskell","Low","Med","Med","No","No Meals","Low","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"2354",79549,79549,"Snyder","Scurry","Low",NA,NA,"No","Lunch Plus","High","None","Low","No","Med","No","High","No",NA,0,NA,NA
+"2356",79553,79553,"Stamford","Jones","Low","Low","Med","No","No Meals","High","None","None","No","Low","No","Low",NA,"Low",0,NA,NA
+"2357",79556,79556,"Sweetwater","Nolan","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","Yes","High","No",NA,0,NA,NA
+"2364",79567,79567,"Winters","Runnels","Low","Low","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"2365",79601,79601,"Abilene","Taylor","High","Med","Med","No","Lunch Plus","High","High","Low","Yes","Med","No","High","No",NA,0,NA,NA
+"2368",79602,79602,"Abilene","Taylor","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"2369",79603,79603,"Abilene","Taylor","High","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"2370",79605,79605,"Abilene","Taylor","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"2376",79701,79701,"Midland","Midland","High","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"2379",79703,79703,"Midland","Midland","High","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"2387",79713,79713,"Ackerly","Martin","Low",NA,NA,"No","No Meals","Low","None","None",NA,NA,"No","None","No",NA,0,NA,NA
+"2389",79718,79718,"Balmorhea","Reeves","Low","Low","Med","No","Lunch","Low","None","Low","Yes","Low","No","Low",NA,"High",0,NA,NA
+"2392",79720,79720,"Big Spring","Howard","Low",NA,NA,"No","Lunch Plus","High","High","Low","No","Med","No","High","No",NA,0,NA,NA
+"2393",79720,79721,"Big Spring","Howard","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","No","None","No",NA,0,NA,NA
+"2397",79734,79734,"Fort Davis","Jeff Davis","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low",NA,NA,0,NA,NA
+"2398",79735,79735,"Fort Stockton","Pecos","Low",NA,NA,"No","Lunch Plus","Low","None","Low","No","Med","Yes","High","No",NA,0,NA,NA
+"2402",79742,79742,"Grandfalls","Ward","Low","Med","High","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2404",79743,79743,"Imperial","Pecos","Low",NA,NA,"No","No Meals","Low","None","None","Yes","High","No","None",NA,NA,0,NA,NA
+"2406",79745,79745,"Kermit","Winkler","Low","Low","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High",NA,"High",0,NA,NA
+"2409",79752,79752,"Mc Camey","Upton","Low","Med","Med","No","Lunch","Low","None","Low","No","Low","Yes","Low",NA,"High",0,1,NA
+"2412",79756,79756,"Monahans","Ward","Low","Med","High","No","Lunch Plus","High","None","Low","No","Med","No","High","No","High",0,1,NA
+"2416",79761,79760,"Odessa","Ector","Med","Med","Med","No","No Meals","High","High","None","No","Med","No","None","No",NA,0,NA,NA
+"2421",79763,79763,"Odessa","Ector","High","High","High","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No",NA,0,NA,1
+"2422",79764,79764,"Odessa","Ector","High","High","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,NA
+"2426",79772,79772,"Pecos","Reeves","Med","Med","Med","Yes","Lunch Plus","Low","None","Low","No","Med","No","High",NA,NA,0,NA,NA
+"2430",79781,79781,"Sheffield","Pecos","Low",NA,NA,"No","No Meals","Low","None","None",NA,"Med","No","None",NA,NA,0,NA,NA
+"2436",79821,79821,"Anthony","El Paso","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"2437",79830,79830,"Alpine","Brewster","Low",NA,NA,"No","Lunch","Low","None","Low","No","Low","No","High","No",NA,0,NA,NA
+"2441",79835,79835,"Canutillo","El Paso","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"2442",79836,79836,"Clint","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,3
+"2443",79837,79837,"Dell City","Hudspeth","Med","Med","Med","No","No Meals","Low","None","None","No","High","No","Low","No","Low",0,NA,NA
+"2444",79838,79838,"Fabens","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","High",NA,"High",0,NA,NA
+"2445",79839,79839,"Fort Hancock","Hudspeth","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Med","No","Low",NA,"High",0,1,NA
+"2446",79842,79842,"Marathon","Brewster","Low",NA,NA,"No","No Meals","Low","None","None","No","Med","No","Low",NA,NA,0,NA,NA
+"2447",79843,79843,"Marfa","Presidio","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","High","No","Low",NA,"Low",0,NA,NA
+"2448",79845,79845,"Presidio","Presidio","Med","Med","Med","No","Lunch","Low","None","Low","No","Low","No","Low","No","High",0,1,NA
+"2452",79849,79849,"San Elizario","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","High",NA,NA,0,NA,6
+"2453",79851,79851,"Sierra Blanca","Hudspeth","Med","Med","Med","No","No Meals","Low","None","None","No","Med","No","Low",NA,"Low",0,NA,NA
+"2454",79852,79852,"Terlingua","Brewster","Low",NA,NA,"No","No Meals","Low","None","None","No","High","No","Low",NA,NA,0,NA,NA
+"2455",79853,79853,"Tornillo","El Paso","Med","Low","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low",NA,"High",0,NA,NA
+"2456",79854,79854,"Valentine","Presidio","Med","Med","Med","No","No Meals","Low","None","None",NA,"High","No","None",NA,"Low",0,NA,NA
+"2457",79855,79855,"Van Horn","Culberson","Med","Med","Med","No","Lunch Plus","Low","None","Low","Yes","Low","No","Low","No","High",0,NA,NA
+"2458",79901,79901,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","Yes","Med","No","High","Yes",NA,0,NA,6
+"2479",79902,79902,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","No","High","No","Low",0,NA,NA
+"2481",79903,79903,"El Paso","El Paso","High","High","Med","Yes","Lunch Plus","Low","None","Low","Yes","Med","Yes","High","No",NA,0,5,4
+"2482",79904,79904,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,7
+"2483",79905,79905,"El Paso","El Paso","Low","Low","Med","Yes","Lunch Plus","Low","None","High","Yes","Med","No","High","No","High",0,1,5
+"2515",79906,79906,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Low","No","Low","No","Low",0,NA,NA
+"2518",79907,79907,"El Paso","El Paso","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,2,NA
+"2521",79908,79908,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low",NA,"Med","No","None","No","Low",0,NA,NA
+"2523",79912,79912,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,NA
+"2526",79915,79915,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,1
+"2530",79924,79924,"El Paso","El Paso","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,4
+"2545",79925,79925,"El Paso","El Paso","High","High","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,6,2
+"2584",79927,79927,"El Paso","El Paso",NA,"Low","Low","Yes","Lunch","Low","None","High","Yes","Med","Yes","High","No","High",0,NA,NA
+"2586",79928,79928,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Low","Yes","High","No","Low",0,NA,4
+"2589",79930,79930,"El Paso","El Paso","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","No","High","No","High",0,NA,2
+"2590",79932,79932,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Med","Yes","High","No",NA,0,NA,NA
+"2591",79934,79934,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","Low","No","Low",0,NA,NA
+"2592",79935,79935,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","Low","No","Med","No","High","No","Low",0,NA,1
+"2593",79936,79936,"El Paso","El Paso","Med","Med","Med","Yes","Lunch Plus","Low","None","High","No","Med","Yes","High","No","Low",0,NA,1
+"2596",79938,79938,"El Paso","El Paso","Med","Med","Med","No","Lunch Plus","Low","None","High","No","Low","Yes","High","No","Low",0,NA,4
+"2601",0,73949,"0","0","Low",NA,"High","No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"2609",0,79047,"0","0","Low",NA,"High","No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"2620",0,76303,"0","0","Low",NA,"High","No","Lunch Plus","Low","None","Low",NA,NA,"No","None",NA,NA,0,NA,NA
+"2630",0,75872,"0","0","Low",NA,"High","No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
+"2645",0,78446,"0","0","Low",NA,"High","No","No Meals","Low","None","None",NA,NA,"No","None",NA,NA,0,NA,NA
